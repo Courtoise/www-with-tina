@@ -1,0 +1,187 @@
+{{ define "main" }}
+
+<!-- banner -->
+{{ with .Params.banner }}
+{{ if .enable }}
+<section class="slider " style="background: linear-gradient(rgb(0 0 0 / 40%), rgb(0 0 0 / 40%)), url('{{ .bg_image | relURL }}');background-size: cover; background-repeat: no-repeat; width: 100%; background-position: center;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        {{ if .quote }}
+        <div class="quote col-md-5 offset-md-7">
+          <img class="" src="{{ .logo_quote | relURL }}" alt="Logo"
+            style="max-height: 15em;max-width: fit-content; align-self: center;">
+          {{ partial "quotesvg.html" . }}
+          {{ with .button }}
+          {{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp"
+            style="width: 15em;align-self: center;">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+        {{ else }}
+        <div class="block">
+          {{ with .title }}<h1>{{ . | markdownify }}</h1>{{ end }}
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          {{ with .button }}
+          {{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /banner -->
+
+
+<!-- about -->
+{{ with .Params.about }}
+{{ if .enable }}
+<section class="about section {{ if .bg_overlay }}overly{{ end }}"
+  style="{{ if .background_image }}background-image: url('{{ .bg_image | relURL }}');{{end}}">
+  <div class="container">
+    <div class="row">
+      <div class="{{ if ( or .image_enable .video_enable ) }}col-md-7{{ end }} col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+            {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          </div>
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+      </div>
+      <div class="col-md-5 col-sm-12 video">
+        <div class="block" style="display: grid;place-items: center;">
+          {{ if .image_enable }}
+          <img src="{{ .image | relURL }}" class="img-fluid" alt="Img">
+          {{ else if .video_enable }}
+          <iframe width="100%" height="60%" src="https://www.youtube-nocookie.com/embed/{{ .video }}"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+          </iframe>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
+{{ end }}
+<!-- /about -->
+
+<!-- service -->
+{{ if .Params.service.enable }}
+{{ partial "service.html" . }}
+{{ end }}
+<!-- /service -->
+
+<!-- funfacts -->
+{{ with .Params.sponsor }}
+{{ if .enable }}
+<section class="sponsor {{ if .bg_overlay }}overly{{ end }}"
+  style="{{ if .background_image }}background-image: url('{{ .bg_image | relURL }}');{{end}}">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+        {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <img src="{{ .image | relURL }}" class="img-fluid" alt="Nos Partenaires">
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /funfacts -->
+
+
+<!-- Event  -->
+{{ with .Params.event }}
+{{ if .enable }}
+{{ $.Scratch.Set "counter" 0 }}
+{{ range sort .evenements }}
+{{ $t := (time .date) }}
+{{ if $t.After now }}
+{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+{{ end }}
+{{ end }}
+{{ $count := $.Scratch.Get "counter" }}
+{{ if gt $count 0 }}
+<section>
+  <div class="section-title text-center">
+    <h2 style="text-align: center; margin-bottom: 4rem;margin-top: 4rem;">{{ .titre | markdownify }}</h2>
+  </div>
+  <div class="wrapper">
+    <div class="news-slider">
+      <div class="news-slider__wrp swiper-wrapper">
+
+
+        {{ range sort .evenements ".date" }}
+        {{ $t := (time .date) }}
+        {{ if $t.After now }}
+        <div class="news-slider__item {{if le $count 2}} bignews {{ end }} swiper-slide">
+          {{ with .nom }}<a href=""
+            class="news__item {{if le $count 2}} big-flex {{ end }}"> {{ end }}
+            <div class="textcontainer">
+              <div class="news-date">
+                {{ with .date }} <span class="news-date__title">{{ time.Format ":date_long" . }} </span> {{ end }}
+              </div>
+              <div class="news__title">
+                {{ .titre }}
+              </div>
+              <div class="news__nom">
+                {{ .nom }}
+              </div>
+              <p class="news__txt">
+                {{ .texte }}
+              </p>
+            </div>
+            <div class="news__img">
+              <img src="{{ .image | relURL }}" alt="news">
+            </div>
+          </a>
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="news-slider__ctr">
+
+        <div class="news-slider__arrows">
+          <button class="news-slider__arrow news-slider-prev">
+            <span class="icon-font">
+              <svg class="icon icon-arrow-left">
+                <use xlink:href="#icon-arrow-left"></use>
+              </svg>
+            </span>
+          </button>
+          <button class="news-slider__arrow news-slider-next">
+            <span class="icon-font">
+              <svg class="icon icon-arrow-right">
+                <use xlink:href="#icon-arrow-right"></use>
+              </svg>
+            </span>
+          </button>
+        </div>
+        <div class="news-slider__pagination"></div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+
+<!-- Event  -->
+
+
+{{ end }}

@@ -1,0 +1,116 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.association }}
+{{ if .enable }}
+<section class="about section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="about-img">
+          <img class="img-fluid" src="{{ .image | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6">
+        {{ with .title }}<h2 class="mt-40">{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="row counter-box text-center mt-50">
+      {{ range .funfacts }}
+      <div class="col-md-2">
+        <div class="counter-item">
+          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ with .count }}<h4 class="count" data-count="{{ . }}">0</h4>{{ end }}
+          {{ with .name }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.atelier }}
+{{ if .enable }}
+<section class="about-feature bg-dark section dark-service">
+  <div class="container">
+    {{ with .title }}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="title">
+          <h2 style="font-size: 28px;">{{ . | markdownify }}</h2>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    <div class="row flexsvg">
+      <!-- {{ partial "ateliersvg.html" . }} -->
+      <div class="about-img">
+        <img class="img-fluid" src="{{ .image | relURL }}">
+      </div>
+
+      <!-- {{ range .feature_item }}
+      <div class="col-md-4">
+        <div class="service-item">
+          {{ if .picture }}
+            {{ with .img }}<img class="feature-item" height="40px" src="{{ . | relURL }}" alt="Icon" > {{ end }}
+          {{ else }}
+            {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ end }}
+          {{ with .name }}<h4>{{ . | markdownify }}</h4>{{ end }}
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+      </div>
+      {{ end }} -->
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+
+{{ with .Params.chiffre }}
+{{ if .enable }}
+<section class="about-number">
+  <div class="container">
+    {{ with .title }}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="title">
+          <h2 style="font-size: 28px;">{{ . | markdownify }}</h2>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  <div class="row counter-box text-center mt-10 center-block d-flex-number">
+    {{ range .funfacts }}
+    <div class="flex-content">
+      <div class="circle-item">
+        {{ with .icon }} <img src="{{ . | relURL }}" alt="icon"> {{ end }}
+        {{ with .count }}<h1 class="count" >{{ . }}</h1>{{ end }}
+        {{ with .name }}<span style="font-size: 20px;">{{ . }}</span>{{ end }}
+      </div>
+      {{ with .content }} <p >{{ . }}</p>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>  
+{{ end }}
+{{ end }}
+
+<!-- Call to action -->
+{{ if .Params.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /Call to action -->
+
+{{ end }}

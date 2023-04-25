@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="recrutement">
+  {{ partial "page-title.html" . }}
+</div>
+
+
+{{ with .Params.recruit }}
+{{ if .enable }}
+
+<section class="pricing-table section">
+  <div class="row" id="margin-pricing">
+    <div class="cards">
+      {{ range  .modal}}
+      <div class="card-category {{ .class }}">
+        <strong class="value">{{ .title }}</strong>
+        <button type="button" class="btn btn-small btn-details {{ .class }}" data-bs-toggle="modal"
+          data-bs-target="#{{ .class }}Modal" id="details-btn" href="##">{{ .button}}</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  {{ range .modal }}
+  <div class="modal fade" id="{{ .class }}Modal" tabindex="-1" aria-labelledby="{{ .class }}Modal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-body {{ .class }}">
+          <button data-bs-dismiss="modal" aria-label="Close"> <i class="fa fa-times" aria-hidden="true"></i></button>
+          {{ .text | markdownify }}
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

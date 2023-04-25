@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.projets}}
+{{ if .enable }}
+<section class="bg_projet position-relative z-index-1 overflow-hidden padding-y-xl timeline-bgcolor">
+
+  <div class="container max-width-adaptive-lg">
+    <div class="v-timeline js-v-timeline" data-animation="on">
+
+      {{ range sort .projet_item ".date" "desc" }}
+      <section class="v-timeline__section js-v-timeline__section">
+        <div class="v-timeline__marker bg-primary-darker border border-3 border-bg-dark" aria-hidden="true"></div>
+
+        <div class="v-timeline__items-group">
+          <div class="v-timeline__item bg-light padding-md radius-md shadow-xs">
+            <div class="v-timeline__date margin-bottom-sm">
+              {{ with .date }}<time class="v-timeline__date-value" datetime="{{ . }}">{{ time.Format ":date_long" .
+                }}</time> {{ end }}
+            </div>
+
+            <div class="text-component">
+              {{ with .name }}<h2>{{ . | markdownify }}</h2>{{ end }}
+
+              {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+            </div>
+
+          </div>
+        </div>
+      </section>
+      {{ end }}
+    </div>
+  </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ end }}

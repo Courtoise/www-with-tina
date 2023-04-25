@@ -1,0 +1,20 @@
+
+
+{{ if .enable }}
+<div class="card">
+    <div class="title">
+        {{ with .title }}<h4>{{ . }}</h4>{{ end }}
+    </div>
+    <div class="info">
+        {{ range .info_list }}
+            <p>
+               {{ with .name }} <span>{{ . }}</span>{{ end }}
+                {{ with .content }}
+                    <span class="dotted"></span>
+                    <span class="time">{{ . }}</span>
+                {{ end }}
+            </p>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

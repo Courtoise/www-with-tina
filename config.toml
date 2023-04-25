@@ -1,0 +1,56 @@
+languageCode = "fr-fr"
+[[module.imports]]
+disable = false
+path = "github.com/themefisher/airspace-hugo"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/fontawesome.min.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/brands.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/solid.css"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/swiper/swiper.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+[[params.plugins.js]]
+link = "plugins/webfont-loader/webfont-loader-2.min.js"
+[[params.plugins.js]]
+link = "js/mailChamp.js"
+[params.variables]
+attelierWidth_size = "50%"
+black = "#000000"
+body_color = "#ffffff"
+border_color = "#ACB9C4"
+color_overlay = "#000000"
+color_primary = "#77B255"
+color_secondary = "#8f0d7f"
+color_third = "#292c9a"
+font_icon = "Font Awesome 5 Free"
+font_primary = "Bree"
+font_primary_type = "sans-serif"
+font_scale = "1.5"
+font_secondary = "Parisine"
+font_secondary_type = "serif"
+font_size = "16px"
+footer = "#3f463c"
+footer_menu = "#c0c0c0"
+green = "#3cc331"
+light = "#f5f5f5"
+navbar_color = "#ffffff"
+navbar_text_color = "#6B9F4C"
+text_color = "#666666"
+text_dark = "#333333"
+text_light = "#6b9f4c"
+white = "#ffffff"

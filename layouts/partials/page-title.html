@@ -1,0 +1,12 @@
+<section class=" bg_recrutement page-title {{ if .Params.bg_norepeat}} bg-center-norepeat {{ else }} bg-2 {{ end  }}" style="background: linear-gradient(rgb(0 0 0 / 40%), rgb(0 0 0 / 40%)), url('{{ .Params.bg_image | relURL }}');background-size: cover; background-repeat: no-repeat; width: 100%; background-position: center;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>{{ .Title }}</h1>
+          <p>{{ .Params.description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

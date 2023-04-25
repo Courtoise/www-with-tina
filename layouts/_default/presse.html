@@ -1,0 +1,80 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+
+
+{{ with .Params.presse }}
+{{ if .enable }}
+
+<div class="header-newspaper">
+  <h1>{{ .header}}</h1>
+</div>
+
+<div class="container radio-button">
+  <div class="form-check">
+    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+    <label class="form-check-label" for="flexRadioDefault1">
+      {{ .journalbutton}}
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+    <label class="form-check-label" for="flexRadioDefault2">
+      {{ .interviewbutton}}
+    </label>
+  </div>
+</div>
+
+
+
+<section class="newspaper-section container">
+  <div class="row">
+    {{ range sort .cards ".date" "desc" }}
+    <div class="card-wrapper col-md {{ .class }}">
+      <a href="{{ .link }}" class="card_link">
+        <div class="hover">
+          <div class="newspaper-cards" style="background: url('{{.image }}'); background-size: cover;">
+            <!--style="background: url('{{.image }}'); background-size: cover;" -->
+            <!-- <img src="{{ .image }}" alt="{{ .class }}" class="{{ .class }}"> -->
+          </div>
+          <div class="media-content">
+            <h2>{{ .title }}</h2>
+            <div>
+              {{ with .date }}
+              <p>{{ time.Format ":date_long" .}}</p>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+<script>
+  const checkboxJournal = document.querySelector('#flexRadioDefault1');
+  const checkboxInterview = document.querySelector('#flexRadioDefault2');
+  const interviews = document.getElementsByClassName('interview');
+  const journals = document.querySelectorAll(".journal");
+  const cardWrapper = document.getElementsByClassName('cardWrapper');
+
+
+
+  checkboxJournal.addEventListener("click", () => {
+    interviews[0].style.display = "none";
+    journals.forEach(journal => {
+      journal.style.display = "block";
+    })
+  })
+  checkboxInterview.addEventListener("click", () => {
+    journals.forEach(journal => {
+      journal.style.display = "none";
+    })
+    interviews[0].style.display = "block";
+  })
+</script>
+{{ end }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,52 @@
+[[footer]]
+name = ""
+url = "<script>function loadScript(a){var b=document.getElementsByTagName(\"head\")[0],c=document.createElement(\"script\");c.type=\"text/javascript\",c.src=\"https://tracker.metricool.com/resources/be.js\",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:\"6cfaf7631445ed356bfdf087c6356f15\"})});</script>"
+weight = ""
+[[footer]]
+name = "Mentions légales"
+url = "legales/"
+weight = 1
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+[[main]]
+name = "Accueil"
+url = ""
+weight = "1"
+[[main]]
+name = "L'Association"
+url = "about/"
+weight = "2"
+[[main]]
+name = "Les Services"
+url = "service/"
+weight = 3
+[[main]]
+name = "Actualités"
+url = "blog/"
+weight = 4
+[[main]]
+weight = 5
+name="Plus"
+hasChildren = true
+  [[main]]
+  parent= "Plus"
+  name = "Projets"
+  url = "project/"
+  weight = 1
+  [[main]]
+  parent= "Plus"
+  name = "Recrutement"
+  url = "pricing/"
+  weight = 2
+  [[main]]
+  parent= "Plus"
+  name = "Média"
+  url = "presse/"
+  weight = 3
+  [[main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 6
+

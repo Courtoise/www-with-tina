@@ -1,0 +1,121 @@
+address_descriptors = false
+author = "Courtoise Resourcerie, Luc Van De Velde"
+copyright = "Copyright © 2021 lacourtoiseressourcerie.com - La Courtoise Ressourcerie"
+custom_script = ""
+description = "Le réemploi, plus écolo que le recyclage"
+email = "secretariat@courtoiseressourcerie.com"
+favicon = "images/favicon.png"
+google_tag_manager = ""
+image = "images/logo.png"
+keywords = "courtoise, ressourcerie, reemploi, ecolo, recyclage, sived, insertion, collecte, saint-maximin-la-sainte-baume, brignoles"
+location = "90 Chemin de Bonneval - Quartier La Courtoise 83470 Saint-Maximin-la-Sainte-Beaume\n"
+logo = "images/logo.png"
+logoDefaultHeight = "50px"
+logoNav = "images/logonav.png"
+logo_text = "La Courtoise Ressourcerie"
+logo_width = "150px"
+navbar_fixed = false
+phone = "04 94 72 01 50"
+[baidu]
+analytics_id = ""
+enable = false
+[contact.form]
+action = "#"
+enable = false
+success_image = "images/paper-plane.svg"
+use_netlify = false
+[cookies]
+button = "I Accept"
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+enable = false
+expire_days = 2
+[counter]
+enable = false
+username = "lvandevelde"
+[gmap]
+enable = false
+gmap_api = "AIzaSyCUyldSJJJbPecWby4i5HLODlZYPwp7ZkA"
+map_latitude = "43.44988099320413"
+map_longitude = "5.887806938320934"
+map_marker = "images/marker.png"
+[matomo]
+enable = true
+id = "1"
+url = "https://yunohost.courtoiseressourcerie.com/matomo/"
+[mailchimp]
+enable = true
+[navigation_button]
+enable = true
+label = "get a quote"
+link = "contact"
+[osm]
+enable = true
+map = "//umap.openstreetmap.fr/fr/map/carte-sans-nom_706905"
+[plausible]
+domain = ""
+enable = false
+[preloader]
+enable = true
+preloader = ""
+[site_verification]
+baidu = ""
+bing = ""
+google = ""
+[widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+[[footerlogo]]
+icon = "/images/footer/Republique.png"
+title = "République Française"
+weight = 1
+[[footerlogo]]
+icon = "/images/image001.jpg"
+title = "Ma Region Sud"
+weight = "2"
+[[footerlogo]]
+icon = "/images/footer/Var.png"
+title = "Var"
+weight = "3"
+[[footerlogo]]
+icon = "/images/logo-ademe-2020-898x1024.jpg"
+title = "logo ADEME"
+weight = "4"
+[[footerlogo]]
+icon = "/images/footer/Sived.png"
+title = "Sived83"
+weight = "5"
+[[footerlogo]]
+icon = "/images/270618360_10158891418862775_5605190917548694361_n.png"
+title = "Réseau National des Ressourceries et des Recycleries"
+weight = "6"
+[[footerlogo]]
+icon = "/images/r2.png"
+title = "Chantier école"
+weight = "7"
+[[footerlogo]]
+icon = "/images/logo-ecosystem_g-photoroom2.png"
+title = "Ecosystem"
+weight = "8"
+[[footerlogo]]
+icon = "/images/oip-photoroom1.png"
+title = "Ecologic"
+weight = "9"
+[[social]]
+icon = "fab fa sived83"
+link = "https://sived83.com/le-service/ressourcerie-la-courtoise/"
+title = "sived"
+[[social]]
+icon = "fab fa-facebook"
+link = "https://www.facebook.com/courtoiseressourcerie/"
+title = "facebook"
+[[social]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/la_courtoise_ressourcerie/"
+title = "instagram"
+[[social]]
+icon = "fab fa labelemmaüs"
+link = "https://www.label-emmaus.co/fr/nos-boutiques/la-courtoise-ressourcerie/"
+title = "labelemmaüs"
+[[social]]
+icon = "fab fa-github"
+link = "https://gitlab.com/courtoise"
+title = "github"
