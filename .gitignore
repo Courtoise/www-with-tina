@@ -11,3 +11,5 @@ public
 resources/
 .vscode
 node_modules
+.env
+.env.example
