@@ -1,5 +1,7 @@
 ---
-title: J'PEUX PAS J'AI BÉNÉVOLAT
+title: >-
+  J'PEUX PAS, J'AI BENEVOLAT : VOTRE EVENEMENT SPECIAL RECRUTEMENT BENEVOLES LE
+  SAMEDI 17 JUIN DE 09H A 12H A LA COURTOISE RESSOURCERIE DE SAINT-MAXIMIN!
 image: /images/2023.png
 description: >-
   Vous souhaitez nous rejoindre en tant que bénévoles ? 
