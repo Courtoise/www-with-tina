@@ -19,13 +19,12 @@ dans mon parcours mais j'étais presque novice en menuiserie.
 
 Qu'est-ce qu'il vous plait dans ce métier ?
 
-Ce qui me plait le plus sont les échanges que l'on a dans l'atelier avec l'équipe, toutes les discussions que l'on peut avoir aussi bien sur ce que nous sommes en train de faire mais aussi sur des sujetsde la vie quotidienne, du monde qui nous entoure...J'aime beaucoup voir l'évolution des personnes qui arrivent en pensant qu'elles ne savent pas faire grand-chose de leurs mains et qui très vite sont assez fières de leurs meubles ! 
-
+Ce qui me plait le plus sont les échanges que l'on a dans l'atelier avec l'équipe, toutes les discussions que l'on peut avoir aussi bien sur ce que nous sommes en train de faire mais aussi sur des sujetsde la vie quotidienne, du monde qui nous entoure...J'aime beaucoup voir l'évolution des personnes qui arrivent en pensant qu'elles ne savent pas faire grand-chose de leurs mains et qui très vite sont assez fières de leurs meubles !
 
 Quelles sont les principales étapes de rénovation pour les meubles en bois ? Comment se déroulent-elles ?
 
 La première étape est de vérifier le côté "fonctionnel" du meuble. L'observer sous tous les angles pour évaluer
-les besoins en réparation et/ou transformation et traitement (Systèmes d'ouvertures/fermetures, la solidité des pieds...), démonter les parties endommagées ou fragilisées, les poncer ou décaper. les réassembler (colle à bois, clou, vis), choisir une finition en fonction de l'état du bois et de l'usage qui sera fait du meuble (cire, vernis, patine, peinture...) 
+les besoins en réparation et/ou transformation et traitement (Systèmes d'ouvertures/fermetures, la solidité des pieds...), démonter les parties endommagées ou fragilisées, les poncer ou décaper. les réassembler (colle à bois, clou, vis), choisir une finition en fonction de l'état du bois et de l'usage qui sera fait du meuble (cire, vernis, patine, peinture...)
 
 Quel est votre rôle dans le chantier d'insertion ?
 
@@ -35,4 +34,4 @@ Quel est l'impact de l'atelier bois sur les personnes qui y participent ?
 
 Le travail du bois est un support pour travailler bien d'autres savoir-être et savoir-faire.  Le fait de travailler en équipe permet aussi de se positionner dans un groupe de personnes et de trouver sa place; de créer
 du lien social. La restauration de meubles permet aussi de restaurer l'image que l'on peut avoir de soi qui est
-très souvent détériorée. Cela permet de reprendre confiance en soi, de réaliser qu'on est capable d'apprendre et de progresser même dans domaine qui nous était inconnu ! Tout ça permet de pouvoir se projeter dans un futur emploi un peu plus sereinement ! 
+très souvent détériorée. Cela permet de reprendre confiance en soi, de réaliser qu'on est capable d'apprendre et de progresser même dans domaine qui nous était inconnu ! Tout ça permet de pouvoir se projeter dans un futur emploi un peu plus sereinement !
