@@ -17,4 +17,4 @@ N'hésitez pas rejoignez-nous !
 
 Évènement gratuit
 
-Rendez à la courtoise Ressourcerie de Saint-Maximin : 90, chemin de Bonneval 83470 
+Rendez-vous à la courtoise Ressourcerie de Saint-Maximin : 90, chemin de Bonneval 83470 
