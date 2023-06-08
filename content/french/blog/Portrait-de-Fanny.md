@@ -4,10 +4,7 @@ date: 2023-06-06T22:00:00.000Z
 image: /images/fanny.jpg
 ---
 
-Nous sommes ravis de vous présenter l'atelier bois. Fanny, l'encadrante de
-l’atelier bois de La Courtoise Ressourcerie est une personne passionnée et
-engagée qui met son savoir-faire au service de notre association depuis
-maintenant 1 an.
+Nous sommes ravis de vous présenter Fanny, l’encadrante de l'atelier bois de La Courtoise Ressourcerie. Cette salarié passionnée et engagée met son savoir-faire au service de notre association depuis maintenant 1 an.
 
 **Pouvez-vous nous en dire plus sur votre parcours et comment êtes-vous devenue encadrante de l'atelier bois ?
 avez-vous eu une formation ?**
