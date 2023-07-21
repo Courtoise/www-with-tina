@@ -1,6 +1,7 @@
 ---
 title: Zoom sur le restaurant les potes au feu
 date: 2023-07-20T22:00:00.000Z
+image: /images/resto.jpg
 ---
 
 Connaissez-vous le restaurant « Les Potes Au Feu » ?
@@ -30,6 +31,3 @@ Pour rendre tout cela possible, nous retrouvons une équipe de 25 bénévoles.
  
 
 Ce projet a été pensé et rêvé par Monsieur Michel FIGARELLA, l'ancien directeur du centre social de Brignoles. Arrivé à la retraite, il a partagé l'idée d'ouvrir un restaurant solidaire.
-
-
-
