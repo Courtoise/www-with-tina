@@ -4,6 +4,7 @@ title: Portrait d'Isabelle
 date: 2023-07-20T22:00:00.000Z
 description: ' '
 type: ' '
+image: /images/portrait isabelle.jpg
 ---
 
 Isabelle est une femme remarquable et pleine d'énergie qui a évolué dans le domaine de l'animation et de la peinture en bâtiments et décors. Depuis un an, elle s'est engagée dans notre chantier d'insertion durant lequel elle a saisi l'occasion de réaliser une période de mise en situation dans un nouveau milieu professionnel (PMSMP) afin d'explorer de nouvelles opportunités.
