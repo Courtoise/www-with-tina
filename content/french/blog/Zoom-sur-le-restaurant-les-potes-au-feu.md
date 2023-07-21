@@ -1,7 +1,7 @@
 ---
 title: Zoom sur le restaurant les potes au feu
 date: 2023-07-20T22:00:00.000Z
-image: /images/resto.jpg
+image: ''
 ---
 
 Connaissez-vous le restaurant « Les Potes Au Feu » ?
