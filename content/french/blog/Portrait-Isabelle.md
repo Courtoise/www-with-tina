@@ -5,9 +5,10 @@ date: 2023-07-20T22:00:00.000Z
 description: ' '
 type: ' '
 image: ''
+author: Jade
 ---
 
-Nous vous présentons Isabelle, une femme remarquable et pleine d'énergie. Après avoir évolué dans le domaine de l'animation et de la peinture en bâtiments et décors. Isabelle travaille depuis un an, elle s'est engagée dans notre chantier d'insertion durant lequel elle a saisi l'occasion de réaliser une période de mise en situation dans un nouveau milieu professionnel (PMSMP) afin d'explorer de nouvelles opportunités.
+Nous vous présentons Isabelle, une femme remarquable et pleine d'énergie. Après avoir évolué dans le domaine de l'animation et de la peinture en bâtiment et décor, Isabelle travaille depuis un an dans notre structure, elle s'est engagée dans notre chantier d'insertion durant lequel elle a saisi l'occasion de réaliser une période de mise en situation dans un nouveau milieu professionnel (PMSMP) afin d'explorer de nouvelles opportunités.
 
 Voici son interview : 
 
@@ -19,11 +20,11 @@ Voici son interview : 
 
 *"Non du tout, je me suis parfaitement adaptée. J'apprécie particulièrement l'aspect humain qui prévaut au sein de ce collectif d'association*."
 
-**Dans quel but faite vous ce stage?**
+**Dans quel but faites-vous ce stage?**
 
 *"Ce stage m'aide a me faire du réseau professionnel et m'apporte de nouvelle compétences.*
 
-*Mon objectif principal est de valider les normes HACCP (*Hazard Analysis Critical Control Point)*. Grâce à cette validation, je peux garantir la sécurité alimentaire et le respect des normes de qualité dans le restaurant où je travaille actuellement.*
+*Mon objectif principal est de valider les normes HACCP (Hazard Analysis Critical Control Point). Grâce à cette validation, je peux garantir la sécurité alimentaire et le respect des normes de qualité dans le restaurant où je travaille actuellement.*
 
 **Avez-vous un projet professionnel défini?**
 
