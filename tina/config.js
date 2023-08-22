@@ -12,8 +12,6 @@ import { postFields } from "./collection/posts";
 import { recrutementFields } from "./collection/recrutment";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
-
 export default defineConfig({
   branch:
     process.env.TINA_BRANCH || // custom branch env override
@@ -46,415 +44,30 @@ export default defineConfig({
           },
         },
         match: {
-          include: "_index",
-          exclude:'{about,contact,legales,presse,pricing,service}',
+          include: '_index',
         },
-        format: "md",
+        
         fields: [
-          {
-            type: "object",
-            name: "banner",
-            label: "Section Baniere",
-            fields: [
-              {
-                type: "boolean",
-                name: "enable",
-                label: "Activer Section Baniere",
-              },
-              {
-                type: "image",
-                name: "bg_image",
-                label: "Image de Background",
-              },
-              {
-                type: "boolean",
-                name: "bg_overlay",
-                label: "Activer Overlay de Background",
-              },
-              {
-                type: "boolean",
-                name: "quote",
-                label: "Activer Affichage citation",
-              },
-              {
-                type: "image",
-                name: "logo_quote",
-                label: "Logo pour la citation",
-                description: "Afficher si <Activer Affichage citation> est activé",
-              },
-              {
-                type: "string",
-                name: "quote_1",
-                label: "Citation Ligne 1",
-                description: "Afficher si <Activer Affichage citation> est activé",
-    
-              },
-              {
-                type: "string",
-                name: "quote_2",
-                label: "Citation ligne 2",
-                description: "Afficher si <Activer Affichage citation> est activé",
-    
-              },
-              {
-                type: "string",
-                name: "quote_3",
-                label: "Citation ligne 3",
-                description: "Afficher si <Activer Affichage citation> est activé",
-    
-              },
-              {
-                type: "string",
-                name: "title",
-                label: "Titre",
-                description: "Afficher si <Activer Affichage citation> est desactivé",
-    
-              },
-              {
-                type: "string",
-                name: "content",
-                label: "Content",
-                description: "Afficher si <Activer Affichage citation> est desactivé",
-                ui: {
-                  component: "textarea",
-                },
-              },
-              {
-                type: "object",
-                name: "button",
-                label: "button",
-                fields: [
-                  {
-                    type: "boolean",
-                    name: "enable",
-                    label: "enable",
-                  },
-                  {
-                    type: "string",
-                    name: "label",
-                    label: "label",
-                  },
-                  {
-                    type: "string",
-                    name: "link",
-                    label: "link",
-                  },
-                ],
-              },
-            ],
-          },
-          {
-            type: "object",
-            name: "about",
-            label: "A Propos",
-            fields: [
-              {
-                type: "boolean",
-                name: "enable",
-                label: "Activer Section A propos",
-              },
-              {
-                type: "boolean",
-                name: "background_image",
-                label: "Affichage image de background",
-              },
-              {
-                type: "image",
-                name: "bg_image",
-                label: "image de background",
-              },
-              {
-                type: "string",
-                name: "title",
-                label: "Titre",
-              },
-              {
-                type: "string",
-                name: "description",
-                label: "Description",
-                ui: {
-                  component: "textarea",
-                },
-              },
-              {
-                type: "rich-text",
-                name: "content",
-                label: "Contenu",
-    
-              },
-              {
-                type: "boolean",
-                name: "image_enable",
-                label: "Affichage image",
-                ui: {
-                  validate: (value, data) => {
-                    const valueImage = value
-                    //  We have access to value of description by using data?.<Name of field>
-                    const valueVideo = data?.about?.video_enable
-                    if (valueImage && valueVideo) {
-                      return 'Tu ne peux activer que l\'Image ou que la Vidéo '
-                    }
-                  },
-                }
-              },
-              {
-                type: "image",
-                name: "image",
-                label: "Image",
-              },
-              {
-                type: "boolean",
-                name: "video_enable",
-                label: "Affichage Video",
-              },
-              {
-                type: "string",
-                name: "video",
-                label: "id de Video",
-              },
-            ],
-          },
-          {
-            type: "object",
-            name: "sponsor",
-            label: "Sponsor",
-            fields: [
-              {
-                type: "boolean",
-                name: "enable",
-                label: "Activer Section Sponsor",
-              },
-              {
-                type: "boolean",
-                name: "background_image",
-                label: "Affichage image de background",
-              },
-              {
-                type: "image",
-                name: "bg_image",
-                label: "Image de background",
-              },
-              {
-                type: "string",
-                name: "title",
-                label: "Titre",
-              },
-              {
-                type: "string",
-                name: "description",
-                label: "Description",
-                ui: {
-                  component: "textarea",
-                },
-              },
-              {
-                type: "image",
-                name: "image",
-                label: "Image",
-              },
-            ],
-          },
-          {
-            type: "object",
-            name: "event",
-            label: "Evenement",
-            fields: [
-              {
-                type: "boolean",
-                name: "enable",
-                label: "Activer Section Evenement",
-              },
-              {
-                type: "string",
-                name: "titre",
-                label: "Titre",
-              },
-              {
-                type: "object",
-                name: "evenements",
-                label: "Evenements",
-                list: true,
-                ui: {
-                  // This allows the customization of the list item UI
-                  // Data can be accessed by item?.<Name of field>
-                  itemProps: (item) => {
-                    return { label: `${item?.titre} `}
-                  },
-                },
-                fields: [
-                  {
-                    type: "datetime",
-                    name: "date",
-                    label: "Date",
-                  },
-                  {
-                    type: "string",
-                    name: "nom",
-                    label: "Nom",
-                  },
-                  {
-                    type: "string",
-                    name: "titre",
-                    label: "Titre",
-                  },
-                  {
-                    type: "string",
-                    name: "texte",
-                    label: "Description",
-                  },
-                  {
-                    type: "image",
-                    name: "image",
-                    label: "Image",
-                  },
-                ],
-              },
-            ],
-          },
+          ...accueilFields(),
         ],
       },
+      //Page Asso
       {
-
+        format: "md",
         label: "Association",
         name: "association",
-        path: "content/french/about",
+        path: "content/french",
         ui: {
           allowedActions: {
             create: false,
             delete: false,
           },
         },
+        match: {
+          include: 'about',
+        },
         fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Titre",
-          },
-          {
-            type: "string",
-            name: "description",
-            label: "Description",
-          },
-          {
-            type: "image",
-            name: "bg_image",
-            label: "Image de background",
-          },
-          {
-            type: "boolean",
-            name: "bg_norepeat",
-            label: "Image de background répétées",
-          },
-          {
-            type: "string",
-            name: "bg_color",
-            label: "Couleur de Background",
-            ui: {
-              component: "color",
-            },
-          },
-          {
-            type: "object",
-            name: "association",
-            label: "Section association",
-            fields: [
-              {
-                type: "boolean",
-                name: "enable",
-                label: "Activer",
-              },
-              {
-                type: "image",
-                name: "image",
-                label: "image",
-              },
-              {
-                type: "string",
-                name: "title",
-                label: "Titre",
-              },
-              {
-                type: "rich-text",
-                name: "content",
-                label: "Contenu",
-    
-              },
-            ],
-          },
-          {
-            type: "object",
-            name: "atelier",
-            label: "Section atelier",
-            fields: [
-              {
-                type: "boolean",
-                name: "enable",
-                label: "Activer",
-              },
-              {
-                type: "string",
-                name: "title",
-                label: "Titre",
-              },
-              {
-                type: "image",
-                name: "image",
-                label: "Image",
-              },
-            ],
-          },
-          {
-            type: "object",
-            name: "chiffre",
-            label: "Section Chiffre",
-            fields: [
-              {
-                type: "boolean",
-                name: "enable",
-                label: "Activer",
-              },
-              {
-                type: "string",
-                name: "title",
-                label: "Titre",
-              },
-              {
-                type: "object",
-                name: "funfacts",
-                label: "funfacts",
-                list: true,
-                ui: {
-                  // This allows the customization of the list item UI
-                  // Data can be accessed by item?.<Name of field>
-                  itemProps: (item) => {
-                    return { label: `${item?.name} `}
-                  },
-                },
-                fields: [
-                  {
-                    type: "image",
-                    name: "icon",
-                    label: "Icon ",
-                  },
-                  {
-                    type: "string",
-                    name: "count",
-                    label: "Chiffre",
-                  },
-                  {
-                    type: "string",
-                    name: "name",
-                    label: "Nom",
-                  },
-                  {
-                    type: "string",
-                    name: "content",
-                    label: "Contenu",
-                  },
-                ],
-              },
-            ],
-          },
+          ...aboutFields(),
         ],
       },
       //Page Service
@@ -470,8 +83,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "service",
-          exclude: '{about,contact,legales,presse,pricing,_index}',
+          include: 'service',
         },
         fields: [
           ...featureFields(),
@@ -562,7 +174,6 @@ export default defineConfig({
         },
         match: {
           include: "pricing",
-          exclude: '{about,contact,legales,presse,service,_index}',
         },
         fields: [
           ...recrutementFields(),
@@ -573,7 +184,7 @@ export default defineConfig({
         format: "md",
         label: "Presse",
         name: "presse",
-        path: "content/french/",
+        path: "content/french",
         ui: {
           allowedActions: {
             create: false,
@@ -582,7 +193,6 @@ export default defineConfig({
         },
         match: {
           include: "presse",
-          exclude: '{about,contact,legales,service,pricing,_index}',
         },
         fields: [
           ...mediaFields(),
@@ -602,7 +212,6 @@ export default defineConfig({
         },
         match: {
           include: "contact",
-          exclude: '{about,service,legales,presse,pricing,_index}',
         },
         fields: [
           ...contactFields(),
@@ -622,7 +231,6 @@ export default defineConfig({
         },
         match: {
           include: "legales",
-          exclude: '{about,contact,service,presse,pricing,_index}',
         },
         fields: [
           ...legalFields(),
