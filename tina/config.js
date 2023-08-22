@@ -21,7 +21,7 @@ export default defineConfig({
     process.env.HEAD, // Netlify branch env,
   clientId:  process.env.TINA_CLIENT_ID, // Get this from tina.io
   token: process.env.TINA_TOKEN, // Get this from tina.io
-  //client: { skip: true },
+  client: { skip: true },
   build: {
     outputFolder: "admin",
     publicFolder: "static",
