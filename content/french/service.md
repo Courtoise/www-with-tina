@@ -137,7 +137,7 @@ service:
     sont à portée de clic. Rejoignez-nous dès à présent sur notre site pour
     __découvrir en exclusivité tous nos objets vintages en avant-première !__
   image: true
-  imageurl: /imagesimages/emmaus-tab.png
+  imageurl: /images/emmaus-tab.png
   name: Emmaus
   lien: 'https://www.label-emmaus.co/fr/nos-boutiques/la-courtoise-ressourcerie/'
 location_vaisselle:
