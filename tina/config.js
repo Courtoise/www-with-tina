@@ -46,7 +46,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "content/french/_index",
+          include: "_index",
         },
 
         fields: [...accueilFields()],
@@ -64,7 +64,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/about",
+          include: "about",
         },
         fields: [...aboutFields()],
       },
@@ -81,7 +81,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/service",
+          include: "service",
         },
         fields: [...featureFields()],
       },
@@ -164,7 +164,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/pricing",
+          include: "pricing",
         },
         fields: [...recrutementFields()],
       },
@@ -181,7 +181,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/presse",
+          include: "presse",
         },
         fields: [...mediaFields()],
       },
@@ -198,7 +198,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/contact",
+          include: "contact",
         },
         fields: [...contactFields()],
       },
@@ -215,7 +215,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/legales",
+          include: "legales",
         },
         fields: [
           ...legalFields(),
@@ -241,7 +241,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/config",
+          include: "config",
         },
         fields: [
           {
@@ -268,7 +268,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/params",
+          include: "params",
         },
         fields: [
           {
@@ -493,7 +493,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**/*/menus.fr",
+          include: "menus.fr",
         },
         fields: [
           {
