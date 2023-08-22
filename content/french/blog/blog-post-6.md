@@ -1,14 +1,14 @@
 ---
 title: Ouverture d'une nouvelle ressourcerie à Brignoles
-date: 2022-01-26T06:07:10.000+00:00
+date: 2022-01-26T06:07:10.000Z
 author: La Courtoise Ressourcerie
-image: "/images/20211130_162456.jpg"
-bg_image: "/images/20211130_162456.jpg"
+image: /images/20211130_162456.jpg
+bg_image: /images/20211130_162456.jpg
 categories:
-- Actualité
-- Brignoles
+  - Actualité
+  - Brignoles
 tags:
-- Ressourcerie
+  - Ressourcerie
 description: La Courtoise Ressourcerie s'agrandit !
 type: post
 ---

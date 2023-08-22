@@ -1,14 +1,25 @@
 ---
-author : "La Courtoise Ressourcerie"
-bg_image : "/images/candidates-waiting-job-interview.jpg"
-categories : ["Recrutement"]
-date : 2022-03-28T22:00:00Z
-description : ""
-image : "/images/offre-emploi-visuel-2-recupere-_plan-de-travail-1-02_plan-de-travail-1-02.png"
-tags : ["Formation", "Emploi", "Temps partiel", "insertion professionelle", "Ressourcerie", "recrutement"]
-title : "On recrute : agent(e) polyvalent(e) de ressourcerie en CDDI sur Saint-Maximin et Brignoles (83) ! "
-type : "post"
+author: La Courtoise Ressourcerie
+bg_image: /images/candidates-waiting-job-interview.jpg
+categories:
+  - Recrutement
+date: 2022-03-28T22:00:00.000Z
+description: ''
+image: >-
+  /images/offre-emploi-visuel-2-recupere-_plan-de-travail-1-02_plan-de-travail-1-02.png
+tags:
+  - Formation
+  - Emploi
+  - Temps partiel
+  - insertion professionelle
+  - Ressourcerie
+  - recrutement
+title: >-
+  On recrute : agent(e) polyvalent(e) de ressourcerie en CDDI sur Saint-Maximin
+  et Brignoles (83) ! 
+type: post
 ---
+
 Vous avez besoin d'aide pour définir votre projet pro, vous n'avez pas d'expérience et vous recherchez un emploi depuis plus d'un an?
 
 La Courtoise Ressourcerie peut vous soutenir dans cette démarche, et vous trouver la formation la plus adaptée!
@@ -31,5 +42,5 @@ Dans le cadre de ce contrat de travail, l'agent(e) bénéficiera d'un accompagne
 
 **Contacts :**
 
-**ASP Saint-Maximin** :  asp.st-maximin@courtoiseressourcerie.com  
+**ASP Saint-Maximin** :  asp.st-maximin@courtoiseressourcerie.com\
 **ASP Brignoles** : asp.brignoles@courtoiseressourcerie.com

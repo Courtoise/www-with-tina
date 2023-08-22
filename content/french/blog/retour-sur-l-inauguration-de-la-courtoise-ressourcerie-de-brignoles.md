@@ -1,14 +1,19 @@
 ---
-author : "La Courtoise Ressourcerie"
-bg_image : "/images/20220624_172309.jpg"
-categories : ["Brignoles", "Inauguration"]
-date : 2022-07-05T15:00:00Z
-description : "Retour sur l'inauguration de La Courtoise Ressourcerie de Brignoles"
-image : "/images/20220624_172309.jpg"
-tags : ["Inauguration", "Brignoles"]
-title : "Retour sur l'inauguration de La Courtoise Ressourcerie de Brignoles"
-type : "post"
+author: La Courtoise Ressourcerie
+bg_image: /images/20220624_172309.jpg
+categories:
+  - Brignoles
+  - Inauguration
+date: 2022-07-05T15:00:00.000Z
+description: Retour sur l'inauguration de La Courtoise Ressourcerie de Brignoles
+image: /images/20220624_172309.jpg
+tags:
+  - Inauguration
+  - Brignoles
+title: Retour sur l'inauguration de La Courtoise Ressourcerie de Brignoles
+type: post
 ---
+
 # Retour sur l’inauguration de la Courtoise Ressourcerie à Brignoles
 
 ## Après 6 mois d’ouverture, La Courtoise Ressourcerie de Brignoles a enfin pu être présentée comme il se doit aux élus et à nos partenaires.
@@ -41,6 +46,6 @@ Suite à la visite des locaux, M. Didier Brémond, Président de l’Agglomérat
 
 ![Discours de M. Dominique Plat, M. Eric Audibert, M. Didier Brémond et M. André Guiol (de gauche à droite)](/images/20220624_172309.jpg "Discours")
 
-Le temps de discours a marqué leur volonté commune, à travers cette nouvelle Ressourcerie, de poursuivre la dynamique engagée sur le territoire : la valorisation des savoir-faire locaux grâce à l’insertion socio-professionnelle et la préservation du cadre de vie des habitants via une démarche de réduction des déchets. L’objectif à terme étant de détourner et valoriser plus de 1000 tonnes d’objets par an grâce aux deux ressourceries. 
+Le temps de discours a marqué leur volonté commune, à travers cette nouvelle Ressourcerie, de poursuivre la dynamique engagée sur le territoire : la valorisation des savoir-faire locaux grâce à l’insertion socio-professionnelle et la préservation du cadre de vie des habitants via une démarche de réduction des déchets. L’objectif à terme étant de détourner et valoriser plus de 1000 tonnes d’objets par an grâce aux deux ressourceries.
 
 Rien ne se perd, tout se répare et se réutilise !

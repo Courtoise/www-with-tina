@@ -1,13 +1,18 @@
 ---
-author : "La Courtoise Ressourcerie"
-bg_image : "/images/evenement-cr-2022.jpg"
-categories : ["Evènement"]
-date : 2022-04-05T12:45:00Z
-description : "Découvrez nos évènements à venir à la Courtoise Ressourcerie de Brignoles et Saint-Maximin"
-image : "/images/evenement-cr-2022.jpg"
-tags : ["Saint-Maximin", "Brignoles"]
-title : "Les évènements d'avril à la Courtoise Ressourcerie"
-type : "post"
+author: La Courtoise Ressourcerie
+bg_image: /images/evenement-cr-2022.jpg
+categories:
+  - Evènement
+date: 2022-04-05T12:45:00.000Z
+description: >-
+  Découvrez nos évènements à venir à la Courtoise Ressourcerie de Brignoles et
+  Saint-Maximin
+image: /images/evenement-cr-2022.jpg
+tags:
+  - Saint-Maximin
+  - Brignoles
+title: Les évènements d'avril à la Courtoise Ressourcerie
+type: post
 ---
 
 # Découvrez nos évènements pour le mois d'Avril 2022

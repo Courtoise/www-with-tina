@@ -25,7 +25,7 @@ les besoins en réparation et/ou transformation et traitement (Systèmes d'ouver
 
 **Quel est votre rôle dans le chantier d'insertion ?**
 
-*"Mon rôle est de veiller au bon déroulement de l'atelier bois (gestion des flux, des stocks, des approvisionnements en matières et produits consommables, plannings...) d'assurer la sécurité des salariés, de les accompagner dans les différentes étapes de restauration et relooking des meubles, de les mettre en confiance. Je fais également le lien avec les ASP (Accompagnatrices Socio-professionnelles) et la psychologue en fonction des attentes et besoins des salariés. *
+\*"Mon rôle est de veiller au bon déroulement de l'atelier bois (gestion des flux, des stocks, des approvisionnements en matières et produits consommables, plannings...) d'assurer la sécurité des salariés, de les accompagner dans les différentes étapes de restauration et relooking des meubles, de les mettre en confiance. Je fais également le lien avec les ASP (Accompagnatrices Socio-professionnelles) et la psychologue en fonction des attentes et besoins des salariés. \*
 
 **Quel est l'impact de l'atelier bois sur les personnes qui y participent ?**
 
