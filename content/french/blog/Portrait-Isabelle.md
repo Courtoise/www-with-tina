@@ -22,7 +22,7 @@ Voici son interview : 
 
 **Dans quel but faites-vous ce stage?**
 
-*"Ce stage m'aide a me faire du réseau professionnel et m'apporte de nouvelle compétences.*
+*"Ce stage m'aide a me faire du réseau professionnel et m'apporte de nouvelles compétences.*
 
 *Mon objectif principal est de valider les normes HACCP (Hazard Analysis Critical Control Point). Grâce à cette validation, je peux garantir la sécurité alimentaire et le respect des normes de qualité dans le restaurant où je travaille actuellement.*
 
