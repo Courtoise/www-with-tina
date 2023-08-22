@@ -4,7 +4,7 @@ title: >-
   SAMEDI 17 JUIN DE 09H A 12H A LA COURTOISE RESSOURCERIE DE SAINT-MAXIMIN!
 image: /images/2023.png
 description: ''
-date: 2023-06-06T22:00:00.000Z
+date: 2023-06-16T22:00:00.000Z
 ---
 
 Vous souhaitez nous rejoindre en tant que bénévoles ?

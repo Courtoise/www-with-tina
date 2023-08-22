@@ -14,6 +14,11 @@ export function postFields() {
         type: "datetime",
         name: "date",
         label: "Date",
+        ui: {
+          component: 'date',
+          dateFormat: 'DD-MM-YYYY',
+          parse: (value) => value && value.format('DD-MM-YYYY'),
+        },
       },
       {
         type: "image",
