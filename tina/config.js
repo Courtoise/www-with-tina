@@ -12,6 +12,8 @@ import { postFields } from "./collection/posts";
 import { recrutementFields } from "./collection/recrutment";
 
 // Your hosting provider likely exposes this as an environment variable
+const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+
 export default defineConfig({
   branch:
     process.env.TINA_BRANCH || // custom branch env override
