@@ -147,7 +147,7 @@ export default defineConfig({
       {
         format: "md",
         label: "Projet",
-        name: "projet__fr_",
+        name: "projet",
         path: "content/french/project",
         ui: {
           allowedActions: {
