@@ -20,7 +20,7 @@
   },
   "homepage": "https://gitlab.com/courtoise/www#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.5.8",
-    "tinacms": "^1.5.1"
+    "@tinacms/cli": "^1.5.18",
+    "tinacms": "^1.5.9"
   }
 }
