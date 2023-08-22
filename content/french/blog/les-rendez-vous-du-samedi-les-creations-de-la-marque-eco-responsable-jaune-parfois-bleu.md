@@ -8,7 +8,6 @@ image : "/images/visuels-web_plan-de-travail-1-24.png"
 tags : []
 title : "Les rendez-vous du samedi : Les créations de la marque éco-responsable Jaune Parfois Bleu !"
 type : "post"
-
 ---
 #### **DECOUVREZ LA MARQUE ECO-RESPONSABLE JAUNE PARFOIS BLEU CE SAMEDI 4 JUIN 2022 A LA COURTOISE RESSOURCERIE DE SAINT-MAXIMIN !**
 

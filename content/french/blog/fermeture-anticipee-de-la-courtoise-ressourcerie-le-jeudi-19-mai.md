@@ -8,8 +8,8 @@ image : "/images/fermeture-exceptionnelle.png"
 tags : ["actualité", "Saint-Maximin", "Brignoles", "horaires"]
 title : "Fermeture anticipée de La Courtoise Ressourcerie le jeudi 19 mai !"
 type : "post "
-
 ---
+
 # Fermeture anticipée de La Courtoise Ressourcerie le jeudi 19 mai ! 
 
 La Courtoise Ressourcerie de Brignoles et Saint-Maximin fermera exceptionnellement ses portes plus tôt le jeudi 19 mai :

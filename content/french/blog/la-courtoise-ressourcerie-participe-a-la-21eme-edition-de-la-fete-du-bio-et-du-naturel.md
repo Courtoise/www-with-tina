@@ -9,6 +9,6 @@ image : "/images/293993142_123333833741578_9077612675727403232_n.jpg"
 tags : ["Evenement"]
 title : "La Courtoise Ressourcerie participe à la 21ème édition de la Fête du Bio et du Naturel ! "
 type : "post"
-
 ---
+
 ### La Courtoise Ressourcerie participe à la 21ème édition de la Fête du Bio et du Naturel à Correns le samedi 20 août prochain ! 

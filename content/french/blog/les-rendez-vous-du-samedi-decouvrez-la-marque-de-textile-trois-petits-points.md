@@ -8,8 +8,8 @@ image : "/images/276145995_3201006853477361_5737457871995249485_n.jpeg"
 tags : ["Consommer autrement", "Consommer mieux", "Consommer local", "Ressourcerie", "Artisanat Français", "Bio"]
 title : "Les Rendez-vous Du Samedi"
 type : "post"
-
 ---
+
 #### **Les rendez-vous du samedi à La Courtoise Ressourcerie de Saint-Maximin (83) !**
 
 Pour ce 1er samedi du mois d'avril, venez découvrir cette entreprise familiale créée début 2018 : **TROIS PETITS POINTS** .  

@@ -8,8 +8,8 @@ image : "/images/image000001-1.JPG"
 tags : ["Animation", "Evenement", "Ete2022"]
 title : "La Courtoise Ressourcerie vous retrouve sur la route de vos vacances ! "
 type : "post"
-
 ---
+
 ### Depuis le vendredi 22 juillet, on vous rencontre toutes les fins de semaine jusqu'à la fin de l'été, à l'aire d'autoroute de Cambarette Nord à Brignoles (dans le sens Brignoles -> Saint-Maximin).
 
 Notre équipe de choc, composée d'Emma, Florian et Jérémy, sera là pour vous accueillir, discuter et vous guider pendant nos animations autour du réemploi.

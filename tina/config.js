@@ -92,28 +92,28 @@ export default defineConfig({
         ],
       },
       //Page Post
-      {
-        format: "md",
-        label: "Post",
-        name: "post__fr_",
-        path: "content/french/blog",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "_index",
-        },
-        fields: [
-          ...post_indexFields(),
-        ],
-      },
+      // {
+      //   format: "md",
+      //   label: "Post",
+      //   name: "post__fr_",
+      //   path: "content/french/blog",
+      //   ui: {
+      //     allowedActions: {
+      //       create: false,
+      //       delete: false,
+      //     },
+      //   },
+      //   match: {
+      //     include: "_index",
+      //   },
+      //   fields: [
+      //     ...post_indexFields(),
+      //   ],
+      // },
       {
         format: "md",
         label: "Posts",
-        name: "posts__fr_",
+        name: "posts",
         path: "content/french/blog",
         match: {
           include: "**/*",

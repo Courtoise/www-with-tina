@@ -8,8 +8,8 @@ image : "/images/post-instagram-journee-benevole-02-02.png"
 tags : ["association", "bénévoles", "bénévolat", "Evenement "]
 title : "J'PEUX PAS, J'AI BENEVOLAT : VOTRE EVENEMENT SPECIAL RECRUTEMENT BENEVOLES LE SAMEDI 19 NOVEMBRE DE 09H A 12H A LA COURTOISE RESSOURCERIE DE BRIGNOLES !"
 type : "post"
-
 ---
+
 ##### **Nous vous attendons nombreux le samedi 19 novembre de 09h à 12h à La Courtoise Ressourcerie de Brignoles, pour notre matinée découverte speciale recrutement benevoles !**
 
 ###### Devenir bénévole au sein de notre association, c'est oeuvrer ensemble pour un monde plusjuste et durable, tout en partageant de véritables moments de vie.

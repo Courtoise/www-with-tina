@@ -8,7 +8,6 @@ image : "/images/20220624_172309.jpg"
 tags : ["Inauguration", "Brignoles"]
 title : "Retour sur l'inauguration de La Courtoise Ressourcerie de Brignoles"
 type : "post"
-
 ---
 # Retour sur l’inauguration de la Courtoise Ressourcerie à Brignoles
 

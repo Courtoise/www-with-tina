@@ -8,7 +8,6 @@ image : "/images/offre-emploi-visuel-2-recupere-_plan-de-travail-1-02_plan-de-tr
 tags : ["Formation", "Emploi", "Temps partiel", "insertion professionelle", "Ressourcerie", "recrutement"]
 title : "On recrute : agent(e) polyvalent(e) de ressourcerie en CDDI sur Saint-Maximin et Brignoles (83) ! "
 type : "post"
-
 ---
 Vous avez besoin d'aide pour définir votre projet pro, vous n'avez pas d'expérience et vous recherchez un emploi depuis plus d'un an?
 

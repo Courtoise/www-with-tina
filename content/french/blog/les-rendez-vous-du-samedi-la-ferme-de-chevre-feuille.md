@@ -8,8 +8,8 @@ image : "/images/visuels-fb.png"
 tags : ["consommer local", "consommer mieux", "consommer autrement"]
 title : "Les Rendez-vous du Samedi : La Ferme de Chèvre-Feuille"
 type : "post"
-
 ---
+
 # "De la Terre à votre Assiette " - Votre nouveau Rendez-vous du Samedi à la Courtoise Ressourcerie de Saint-Maximin !
 
 Pour l’ouverture de ce 3ème samedi du mois d'avril, c’est au tour des petits producteurs locaux d’être au-devant de la scène !   

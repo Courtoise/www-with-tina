@@ -8,8 +8,8 @@ image : "/images/275794889_706333040725865_7154237724590276413_n.jpg"
 tags : ["évènement", "permaculture", "consommer autrement"]
 title : "Fête de la Permaculture le 30 avril 2022 organisée par Ecovirage"
 type : "post"
-
 ---
+
 # L'association Ecovirage organise sa première Fête de la Permaculture, en partenariat avec l'entreprise Vers Ma Terre et le CINA Architecture!
 
 Venez découvrir le 30 avril 2022 tout un tas d'activités pour petits et grands autour de l'environnement et des alternatives écologiques !

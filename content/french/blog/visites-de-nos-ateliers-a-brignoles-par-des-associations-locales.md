@@ -8,7 +8,6 @@ image : "/images/fa5def1d-aaf1-cf5b-bc74-fd28c3283bd9-1.png"
 tags : []
 title : "Visites de nos ateliers à Brignoles par des associations locales ! "
 type : "post"
-
 ---
 #### **Immersion au cœur des ateliers de La Courtoise Ressourcerie à Brignoles par des associations locales !**
 

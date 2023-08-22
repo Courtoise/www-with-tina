@@ -11,8 +11,8 @@ tags:
 - Ressourcerie
 description: La Courtoise Ressourcerie s'agrandit !
 type: post
-
 ---
+
 ### **Un pas de plus vers un monde zéro déchet**
 
 Une semaine après avoir ouvert ses apports, La Courtoise Ressourcerie de Brignoles a ouvert les portes de sa boutique le samedi 29 janvier 2022.

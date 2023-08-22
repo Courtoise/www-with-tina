@@ -8,7 +8,6 @@ image : "/images/visuels-web-20.png"
 tags : []
 title : "Les rendez-vous du samedi : Les créations de l'Atelier Vénus & la marque de sacs Messages secrets !"
 type : "post"
-
 ---
 #### Pour ce nouveau rendez-vous du samedi à La Courtoise Ressourcerie de Saint-Maximin, découvrez les créations françaises de l'Atelier Vénus et la marque de sacs à main artisanale Messages secrets !
 

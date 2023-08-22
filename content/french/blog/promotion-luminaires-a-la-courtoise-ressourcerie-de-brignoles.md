@@ -8,7 +8,6 @@ image : "/images/promo-luminaires-brignoles-2.png"
 tags : ["promotion", "Brignoles"]
 title : "Promotion luminaires à La Courtoise Ressourcerie de Brignoles"
 type : "post"
-
 ---
 ### Promotion luminaires à La Courtoise Ressourcerie de Brignoles !
 

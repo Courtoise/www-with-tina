@@ -8,8 +8,8 @@ image : "/images/fermeture-exceptionnelle-3.png"
 tags : ["Brignoles"]
 title : "Fermeture exceptionnelle de La Courtoise Ressourcerie vendredi 24 juin !"
 type : "post"
-
 ---
+
 # En raison de l'inauguration de la Courtoise Ressourcerie de Brignoles
 
 * Le magasin et les apports de Saint-Maximin fermeront à 15h

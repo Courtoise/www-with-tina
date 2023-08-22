@@ -9,8 +9,8 @@ image : "/images/275385393_3211478439109149_5572771936315365165_n.jpg"
 tags : ["Repair café"]
 title : "Atelier Zéro Déchet"
 type : "post"
-
 ---
+
 # **À vos agendas !**
 
 Rendez-vous le vendredi 25 mars 2022 pour un atelier convivial gratuit autour du thème : **“Du frigo au jardin, les ressources étonnantes de mes aliments !”.**

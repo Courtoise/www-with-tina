@@ -8,7 +8,6 @@ image : "/images/277677879_3232701400320186_5980556367395948074_n.jpg"
 tags : ["faitmaison", "astuceszerogaspi", "astuceszd", "zerodechet"]
 title : "Votre 2ème Atelier Zéro Déchet : \" Ménage au naturel \""
 type : "post"
-
 ---
 ##### **"Ménage au naturel" : votre deuxième atelier Zéro Déchet à La Courtoise Ressourcerie de Brignoles (83) !**
 
