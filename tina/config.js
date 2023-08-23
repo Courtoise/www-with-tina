@@ -46,7 +46,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "_index",
+          include: "**/**/_index",
+          exclude: "{project,blog,author}/**/**",
         },
 
         fields: [...accueilFields()],
@@ -64,7 +65,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "about",
+          include: "**/**/about",
+          exclude: "{project,blog,author}/**/**",
         },
         fields: [...aboutFields()],
       },
@@ -81,7 +83,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "service",
+          include: "**/**/service",
+          exclude: "{project,blog,author}/**/**",
         },
         fields: [...featureFields()],
       },
@@ -146,9 +149,6 @@ export default defineConfig({
             delete: false,
           },
         },
-        match: {
-          include: "**/*/_index",
-        },
         fields: [...projetsFields()],
       },
       //Page Recrutement
@@ -164,7 +164,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "pricing",
+          include: "**/**/pricing",
+          exclude: "{project,blog,author}/**/**",
         },
         fields: [...recrutementFields()],
       },
@@ -181,7 +182,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "presse",
+          include: "**/**/presse",
+          exclude: "{project,blog,author}/**/**",
         },
         fields: [...mediaFields()],
       },
@@ -198,7 +200,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "contact",
+          include: "**/**/contact",
+          exclude: "{project,blog,author}/**/**",
         },
         fields: [...contactFields()],
       },
@@ -215,7 +218,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "legales",
+          include: "**/**/legales",
+          exclude: "{project,blog,author}/**/**",
         },
         fields: [
           ...legalFields(),
@@ -241,7 +245,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "config",
+          include: "**/config",
         },
         fields: [
           {
@@ -268,7 +272,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "params",
+          include: "**/params/**",
         },
         fields: [
           {
@@ -493,7 +497,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "menus.fr",
+          include: "**/menus.fr",
         },
         fields: [
           {
