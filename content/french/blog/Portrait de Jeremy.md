@@ -24,7 +24,7 @@ Nous tenions à vous présenter notre cher responsable du magasin du site de Bri
 
 *"Ici, le côté humain est au cœur même du projet, mais aussi le côté unique, des personnes et des produits. En effet, les personnes travaillant ici ont toutes des parcours de vie très différents, des projets, et il faut bien prendre en compte ces individualités. Du côté des objets aussi, il y a cet aspect « unique » de chaque article, rendant le magasin plus vivant qu’un magasin classique."*
 
-Quelles sont les difficultés que vous pouvez rencontrer au quotidien ?
+**Quelles sont les difficultés que vous pouvez rencontrer au quotidien ?**
 
 *"C’est cette double casquette qui peut parfois apporter des difficultés, notamment dans le fait de gérer l’individualité de chacun au sein du groupe. Il faut aussi savoir réinventer le magasin constamment, tous les objets étant uniques, donc éphémères. C’est un défi de chaque jour, assez stimulant."*
 
