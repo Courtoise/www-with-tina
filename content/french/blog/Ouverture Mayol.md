@@ -8,7 +8,7 @@ author: Communication
 
 Le samedi 9 septembre dernier, nous avons ouvert notre boutique éphémère au sein du centre commercial Mayol, à Toulon !
 
-Cet évènement marquera une occasion unique de sensibiliser un plus large public à des valeurs d’éco-responsabilité avec un commerce plus étique, autour des produits de seconde main.
+Cet évènement marquera une occasion unique de sensibiliser un plus large public à des valeurs d’éco-responsabilité avec un commerce plus éthique, autour des produits de seconde main.
 
 Ce projet, sur lequel toutes les équipes de La Courtoise Ressourcerie ont travaillé durant des semaines, a rencontré son public et conquis les toulonnais, dès le jour de son ouverture.
 
