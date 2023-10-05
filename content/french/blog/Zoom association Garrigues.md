@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Zoom sur l'association Garrigues
-date: 2023-10-03T22:00:00.000Z
+date: 2023-10-04T22:00:00.000Z
 image: /images/épicerie solidaire garrigues.jpg
 author: Communication
 ---
