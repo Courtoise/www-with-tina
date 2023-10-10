@@ -8,11 +8,11 @@ author: Communication
 
 Aujourd’hui nous vous présentons Chantal, une bénévole dévouée de la Courtoise Ressourcerie, qui donne de son temps afin d’œuvrer à donner une seconde vie aux objets.
 
-**Depuis quand êtes vous bénévole à la Courtoise Ressourcerie ?**
+**Depuis quand êtes-vous bénévole à la Courtoise Ressourcerie ?**
 
 *«Je suis bénévole à la Ressourcerie depuis 2019, à ce moment là je ne venais que ponctuellement, mais je viens plus régulièrement depuis 2020.»*
 
-**Comment avez vous connu la Ressourcerie ?**
+**Comment avez-vous connu la Ressourcerie ?**
 
 *«J’ai connu la Courtoise Ressourcerie par le biais d’un des fondateurs, Mr Demerens, qui est un ami.»*
 
@@ -20,11 +20,11 @@ Aujourd’hui nous vous présentons Chantal, une bénévole dévouée de la Cour
 
 *«Quand je suis arrivée en tant que bénévole, j’étais principalement à l’atelier bois, pour y faire du relooking de meubles, car c’est quelque chose qui me plaît beaucoup. Puis je suis venue en renfort aux livres, afin de les trier, les classer, car il y avait des besoins à ce niveau là. Un samedi par mois, il est également demandé aux bénévoles d’être en renfort au magasin.»*
 
-**Que souhaitez vous apporter à l’association en tant que bénévole ?**
+**Que souhaitez-vous apporter à l’association en tant que bénévole ?**
 
 *«En tant que bénévole, j’aime l’idée de pouvoir apporter certaines de mes compétences, notamment en relooking de meubles, à l’atelier bois. Mais cela ne va pas seulement dans un sens, j’apprends aussi énormément auprès des différents salariés de la Ressourcerie : c’est un réel échange !»*
 
-**En quoi cela est il important pour vous, de contribuer au fonctionnement de la Courtoise ?**
+**En quoi cela est-il important pour vous, de contribuer au fonctionnement de la Courtoise ?**
 
 *«Pour plusieurs raisons : d’abord d’un point de vue personnel, cela me permet d’occuper mon temps, tout en mettant mes compétences au service de la Ressourcerie. Et puis évidemment pour le côté écologique, ici c’est le «palais» de la seconde vie pour les objets ! Je trouve ça très bien de revaloriser les objets au lieu de les jeter, et de sensibiliser les jeunes à cette démarche.»*
 
