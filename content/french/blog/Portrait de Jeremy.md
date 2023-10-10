@@ -8,11 +8,11 @@ description: ''
 
 Nous tenions à vous présenter notre cher responsable du magasin du site de Brignoles, Jérémy Archiprêtre, qui œuvre tous les jours à faire vivre l’espace de vente et gérer une équipe d’une dizaine de salariés.
 
-**Pouvez-vous vous présenter ? Depuis quand êtes vous salarié au sein de la Courtoise Ressourcerie ?**
+**Pouvez-vous vous présenter ? Depuis quand êtes-vous salarié au sein de la Courtoise Ressourcerie ?**
 
 *"Jeremy Archiprêtre, responsable magasin/encadrant depuis plus de 2 ans (depuis le 17 août 2021) à la Courtoise Ressourcerie de Brignoles."*
 
-**Depuis quand faites vous de la vente ?**
+**Depuis quand faites-vous de la vente ?**
 
 *"Je suis dans la vente depuis 22 ans, j’ai travaillé dans divers domaines et structures (en supermarché, déco, fruits et légumes, informatique…)"*
 
