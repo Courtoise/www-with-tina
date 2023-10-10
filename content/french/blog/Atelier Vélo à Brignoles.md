@@ -13,10 +13,10 @@ Ces associations organisent régulièrement (un samedi par mois) des Ateliers Z�
 
 Durant cette chaude journée ensoleillée, Bastien et Quentin de l'association La Chouette Liberté ont accueilli une quinzaine d'enfants et quelques adultes en leur proposant une initiation à l'entretien et à la réparation des vélos. Les enfants avaient également accès à un parcours spécialement aménagé pour l'occasion.
 
-Ainsi, une dizaine de vélos ont été réparés, d’autres ont simplement été révisés. Le diagnostic d’un vélo (vérification des pannes et défauts potentiels) a été effectué, nécessitant un changement de pièce plus conséquent.
+Ainsi, une dizaine de vélos ont été réparés, d’autres ont simplement été révisés. Le diagnostic d’un vélo (vérification des pannes et défauts potentiels) a été effectué, nécessitant un changement de pièces plus conséquent.
 
 ![](/images/image00005.jpeg)
 
-Au cours de la journée, un petit jeu, “Anatomie d’un vélo”, a été proposé à destination des enfants, leur permettant d’apprendre à distinguer les différentes parties et pièces du vélo et d’en apprendre les noms. Les enfants en ont été enchantés ! Cela permet également de sensibiliser dès le plus jeune âge à des alternatives plus durables, en réparant au lieu de racheter de nouveaux objets.
+Au cours de la journée, un petit jeu, “Anatomie d’un vélo”, a été proposé à destination des enfants, leur permettant d’apprendre à distinguer les différentes parties et pièces du vélo et d’en apprendre les noms. Les enfants étaient enchantés ! Ce type d'évènement permet de sensibiliser dès le plus jeune âge à des alternatives plus durables, en réparant au lieu de racheter de nouveaux objets.
 
-Nous tenons à remercier les équipes de La Chouette Liberté et Ecoscience Provence, présentes ce jour-là, pour ce formidable atelier !
+Nous tenons à remercier les équipes de La Chouette Liberté et Écoscience Provence, présentes ce jour-là, pour ce formidable atelier !
