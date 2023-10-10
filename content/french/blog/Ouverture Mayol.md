@@ -10,9 +10,9 @@ Le samedi 9 septembre dernier, nous avons ouvert notre boutique éphémère au s
 
 Ce projet marquera l'occasion unique de sensibiliser un plus large public à des valeurs d’éco-responsabilité avec un commerce plus éthique, autour des produits de seconde main.
 
-Toutes les équipes de La Courtoise Ressourcerie ont travaillé d'arrache pied durant des semaines afin de mener à bien ce beau projet. La boutique a rencontré son public et conquis les toulonnais dès le jour de son ouverture.
+Toutes les équipes de La Courtoise Ressourcerie ont travaillé d'arrache pied durant des semaines afin de mener à bien ce beau projet. La boutique a rencontré son public et conquis les Toulonnais dès le jour de son ouverture.
 
-Nos 2 Sarah vous accueilleront du lundi au samedi de 9h à 19h, vous y trouverez un large choix d’objets de seconde main, allant des vinyles aux jouets, en passant par les livres et bibelots. Vous pourrez également y retrouver des vêtements, provenant de notre partenariat avec l’association ASP.
+Nos 2 "Sarah" vous accueilleront du lundi au samedi de 9h à 19h. Vous y trouverez un large choix d’objets de seconde main, allant des vinyles aux jouets, en passant par les livres et bibelots. Vous pourrez également y retrouver des vêtements, provenant de notre partenariat avec l’association ASP.
 
 ![](</images/intérieur magasin Mayol.jpg>)
 
