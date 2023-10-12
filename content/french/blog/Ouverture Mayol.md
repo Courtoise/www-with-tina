@@ -6,17 +6,30 @@ image: /images/devanture site mayol v2.jpg
 author: Communication
 ---
 
-Le samedi 9 septembre dernier, nous avons ouvert notre boutique éphémère au sein du centre commercial Mayol, à Toulon !
-
-Ce projet marquera l'occasion unique de sensibiliser un plus large public à des valeurs d’éco-responsabilité avec un commerce plus éthique, autour des produits de seconde main.
-
-Toutes les équipes de La Courtoise Ressourcerie ont travaillé d'arrache pied durant des semaines afin de mener à bien ce beau projet. La boutique a rencontré son public et conquis les Toulonnais dès le jour de son ouverture.
-
-Nos 2 "Sarah" vous accueilleront du lundi au samedi de 9h à 19h. Vous y trouverez un large choix d’objets de seconde main, allant des vinyles aux jouets, en passant par les livres et bibelots. Vous pourrez également y retrouver des vêtements, provenant de notre partenariat avec l’association ASP.
+C’est avec une immense
+fierté et joie que nous vous présentons notre bébé de la Courtoise Ressourcerie.
+Notre boutique éphémère du centre commercial de Mayol à Toulon.
 
 ![](</images/intérieur magasin Mayol.jpg>)
 
-Ainsi, ce sont des valeurs sociales et environnementales qui régissent ce projet, en ayant pour but principal de favoriser un
-modèle économique et des habitudes de consommation plus durables. Nous espérons ainsi faire connaître la Courtoise Ressourcerie, et les ressourceries de manière générale, au plus grand nombre.
+Cette boutique sera
+ouverte pendant un an. Elle est l’aboutissement de plusieurs mois de travail
+acharné !
 
-Nous sommes très heureux de partager cette belle aventure et cette expérience unique avec vous tous, et vous attendons nombreux !
+Tous les salariés de la Courtoise
+ont pris à cœur ce projet en s’investissant pleinement dans la concrétisation
+de notre idée improbable, nous installer au cœur du temple de la consommation.
+
+Nous espérons vivement au
+travers de cette initiative, sensibiliser le plus grand nombre à une économie
+plus durable et à l’antigaspi.
+
+Nos deux charmantes
+vendeuses sont ravies de vous accueillir du lundi au samedi de 9h30 à 19h30
+afin de vous proposer un large choix d’objets de seconde main, allant des
+vinyles aux jouets, en passant par les livres et bibelots. Vous pourrez
+également y retrouver des vêtements, provenant de notre partenariat avec
+l’association ASP.
+
+Suivez cette belle aventure
+sur le Facebook de [La courtoise ressourcerie de Mayol ](https://www.facebook.com/profile.php?id=61550328611160)
