@@ -2,7 +2,7 @@
 draft: false
 title: 'Portrait de Chantal, bénévole à Saint-Maximin'
 date: 2023-10-03T22:00:00.000Z
-image: /images/chantal.jpg
+image: /images/chantal-comp.jpg
 author: Communication
 ---
 
