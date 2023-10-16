@@ -1,7 +1,7 @@
 ---
 title: Atelier Vélo à Brignoles
 date: 2023-09-19T22:00:00.000Z
-image: /images/IMG_8210-min.JPG
+image: /images/velo-1-comp.jpg
 author: Communication
 ---
 
