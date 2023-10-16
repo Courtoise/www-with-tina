@@ -2,24 +2,24 @@
 draft: false
 title: Zoom sur l'association Garrigues
 date: 2023-10-04T22:00:00.000Z
-image: /images/épicerie solidaire garrigues.jpg
+image: /images/épicerie-solidaire-garrigues_optimized.jpg
 author: Communication
 ---
 
 Garrigues est une association basée à Saint Maximin qui couvre les territoires de la Provence Verte et du Haut Var Verdon depuis 2004. Elle compte 15 salariés sur un total de 40 membres. Elle fait partie de nos associations partenaires.
 
 Cette association vise à développer l’économie solidaire tout en luttant contre l’exclusion sociale, avec plusieurs activités et
-plateformes elle met en place diverses actions visant à répondre à ces problématiques. Ainsi, Garrigues propose par exemple une épicerie solidaire itinérante, toute première action mise en place dès le début de la vie de l’association. 
+plateformes elle met en place diverses actions visant à répondre à ces problématiques. Ainsi, Garrigues propose par exemple une épicerie solidaire itinérante, toute première action mise en place dès le début de la vie de l’association.
 
-![](</images/espaceConvi garrigues.png>)
+![](/images/guarriges-comp.jpg)
 
 Avec les années sont venus s’ajouter divers espaces de convivialité, ainsi qu’une plateforme multi-services, une laverie solidaire, un jardin solidaire partagé, mais également une plateforme mobilité et insertion.
 
-![](</images/jardin partagé garrigues.png>)
+![](</images/jardin partagé garrigues.jpg>)
 
 Ce pôle mobilité comporte entre autre une auto-école solidaire, basée sur Brignoles, qui permet à une soixantaine de personnes, éligibles à cette aide, de passer le permis tous les ans, avec l’aide et le soutien de deux moniteurs dévoués. Cette plateforme mobilité met également à disposition des véhicules de prêt, dans une démarche d’insertion des personnes dans le milieu professionnel.
 
-![](</images/garage garrigues.jpg>)
+![](/images/guarrigues-1.jpg)
 
 L’association Garrigues possède également un garage solidaire, au sein duquel Dylan et Kevin, salariés en insertion à la Ressourcerie, ont pu effectuer une période de mise en situation en milieu professionnel (PMSMP), pendant une et deux semaines. Ce stage leur a permis de découvrir le métier de mécanicien, en immersion totale.
 
