@@ -1,7 +1,7 @@
 ---
 title: 'Portrait de Jeremy, responsable du magasin de Brignoles'
 date: 2023-09-27T22:00:00.000Z
-image: /images/photo jeremy.jpg
+image: /images/jeremy-comp.jpg
 author: Communication
 description: ''
 ---
