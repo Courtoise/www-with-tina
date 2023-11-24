@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Portrait de Bruno, bénévole à Saint-Maximin'
 date: 2023-11-23T23:00:00.000Z
 image: /images/photo bruno min.jpg
