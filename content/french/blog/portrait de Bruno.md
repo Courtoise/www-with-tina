@@ -5,7 +5,7 @@ image: /images/photo bruno min.jpg
 author: Communication
 ---
 
-Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Maximin, et vice-président du Conseil d’Administration de l’association. 
+Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Maximin, et vice-président du Conseil d’Administration de l’association.
 
 **Pouvez-vous vous présenter ? **
 
