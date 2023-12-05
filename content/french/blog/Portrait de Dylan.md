@@ -17,7 +17,7 @@ Nous vous présentons Dylan, un salarié en CDDI de la Ressourcerie de Saint-Max
 
 **As-tu un objectif professionnel précis en tête ?**
 
-*"Le but de cette immersion était de savoir si je voulais m’orienter vers ce domaine ou prendre une autre direction. J’ai compris que je souhaitais faire autre chose, mais cela m’a tout de même permis d’avoir plus d’expérience."*
+*"Le but de cette immersion était de savoir si je voulais m’orienter vers ce domaine ou prendre une autre direction. J’ai compris que je souhaitais faire autre chose, mais cela m’a tout de même permis d’acquérir plus d’expérience."*
 
 **Vers quelle voie souhaites-tu t’orienter ?**
 
