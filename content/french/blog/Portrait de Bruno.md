@@ -1,14 +1,14 @@
 ---
 draft: false
 title: 'Portrait de Bruno, bénévole'
-date: 2023-12-04T23:00:00.000Z
+date: 2023-12-03T23:00:00.000Z
 image: /images/photo bruno min (2).jpg
 author: Communication
 ---
 
 Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Maximin, et vice-président du Conseil d’Administration de l’association.
 
-**Pouvez-vous vous présenter ?** 
+**Pouvez-vous vous présenter ?**
 
 *"Je m’appelle Bruno Isoard, j’habite à Saint-Maximin, et je suis bénévole au sein de la Courtoise Ressourcerie."*
 
