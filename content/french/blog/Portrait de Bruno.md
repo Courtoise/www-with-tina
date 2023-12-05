@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Portrait de Bruno, bénévole'
 date: 2023-12-04T23:00:00.000Z
 image: /images/photo bruno min (2).jpg
