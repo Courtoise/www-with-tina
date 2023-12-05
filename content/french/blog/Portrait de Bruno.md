@@ -6,9 +6,9 @@ image: /images/photo bruno min (2).jpg
 author: Communication
 ---
 
-Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Maximin, et vice-président du Conseil d’Administration de l’association. 
+Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Maximin, et vice-président du Conseil d’Administration de l’association.
 
-**Pouvez-vous vous présenter ? **
+**Pouvez-vous vous présenter ?** 
 
 *"Je m’appelle Bruno Isoard, j’habite à Saint-Maximin, et je suis bénévole au sein de la Courtoise Ressourcerie."*
 
@@ -18,13 +18,13 @@ Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Ma
 
 **Comment avez-vous connu la Courtoise Ressourcerie ?**
 
-*"J’ai découvert la Courtoise Ressourcerie d’abord en tant que client. Ayant toujours aimé les brocantes, vide-greniers et les objets d’occasion, j’ai tout de suite apprécié ce magasin très agréable et bien rangé. La dimension sociale de cette association m’a tout de suite séduit. Au moment où je suis arrivé, la ressourcerie comptait 32 bénévoles, et seulement 17 salariés en CDDI (Contrat à Durée Déterminée d’Insertion) et 2 encadrants *(contre une quarantaine de bénévoles, une centaine de salariés et 22 permanents actuellement).*"*
+*"J’ai découvert la Courtoise Ressourcerie d’abord en tant que client. Ayant toujours aimé les brocantes, vide-greniers et les objets d’occasion, j’ai tout de suite apprécié ce magasin très agréable et bien rangé. La dimension sociale de cette association m’a tout de suite séduit. Au moment où je suis arrivé, la ressourcerie comptait 32 bénévoles, et seulement 17 salariés en CDDI (Contrat à Durée Déterminée d’Insertion) et 2 encadrants (contre une quarantaine de bénévoles, une centaine de salariés et 22 permanents actuellement)."*
 
 **Quel est votre rôle au sein de l’association ?**
 
 *"J’ai commencé en tant que bénévole en magasin, je le suis toujours certains samedis. Puis parallèlement à cette activité bénévole, je suis devenu un des administrateurs de l’association, et depuis 2019, j’ai été nommé vice-président du Conseil d’Administration de la Courtoise. Selon moi, ce rôle revient à être à disposition de la Ressourcerie, et être en phase avec la direction pour permettre aux projets d’aboutir, en adoptant toujours une posture bienveillante."*
 
- **Pourquoi avez-vous choisi de vous investir en tant que bénévole ? **
+**Pourquoi avez-vous choisi de vous investir en tant que bénévole ?**
 
 *"Quand je me suis engagé au sein de la Courtoise Ressourcerie, c’est le côté insertion qui me parlait le plus. Ce que j’aime particulièrement, c’est échanger avec les salariés en CDDI, le côté humain. En tant que bénévole, c’est un réel échange, c’est du donnant-donnant : on donne, et on reçoit aussi énormément ! Quand je discute avec les salariés, je me place au même niveau qu’eux, il n’y a pas de hiérarchie."*
 
