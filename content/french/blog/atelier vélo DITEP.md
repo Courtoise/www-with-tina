@@ -1,7 +1,7 @@
 ---
 title: Atelier vélo pour les enfants du DITEP
 date: 2023-12-05T23:00:00.000Z
-image: /images/atelier ditep.jpg
+image: /images/IMG_2709 (1).jpg
 author: Communication
 ---
 
