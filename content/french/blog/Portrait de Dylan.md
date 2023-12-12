@@ -9,7 +9,7 @@ Nous vous présentons Dylan, un salarié en CDDI de la Ressourcerie de Saint-Max
 
 **Peux-tu te présenter ?**
 
-*"Je suis Dylan Talmon, je travaille dans le chantier d’insertion de La Courtoise Ressourcerie."*
+*"Je suis Dylan Talmon, je travaille dans le chantier d’insertion de La Courtoise."*
 
 **Pourquoi faire une PMSMP au sein de l’association «Garrigues» ?**
 
