@@ -5,11 +5,11 @@ image: /images/dylan-min.jpg
 author: Communication
 ---
 
-Nous vous présentons Dylan, un salarié en CDDI de la Ressourcerie de Saint-Maximin. Il a effectué une période de mise en situation en milieu professionnel (PMSMP) dans le cadre de son contrat d’insertion.
+Nous vous présentons Dylan, un salarié en insertion de la Ressourcerie de Saint-Maximin. Il a effectué une période de mise en situation en milieu professionnel (PMSMP) dans le cadre de son contrat d’insertion.
 
 **Peux-tu te présenter ?**
 
-*"Je suis Dylan Talmon, je travaille dans le chantier d’insertion de La Courtoise."*
+*"Je suis Dylan Talmon, je travaille dans le chantier d’insertion de La COURTOISE."*
 
 **Pourquoi faire une PMSMP au sein de l’association «Garrigues» ?**
 
