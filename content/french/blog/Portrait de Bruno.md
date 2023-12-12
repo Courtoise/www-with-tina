@@ -6,17 +6,17 @@ image: /images/photo bruno min (2).jpg
 author: Communication
 ---
 
-Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Maximin, et vice-président du Conseil d’Administration de l’association.
+Nous vous présentons Bruno, bénévole à la Courtoise de Saint-Maximin, et vice-président du Conseil d’Administration de l’association.
 
 **Pouvez-vous vous présenter ?**
 
-*"Je m’appelle Bruno Isoard, j’habite à Saint-Maximin, et je suis bénévole au sein de la Courtoise Ressourcerie."*
+*"Je m’appelle Bruno Isoard, j’habite à Saint-Maximin, et je suis bénévole au sein de la Courtoise."*
 
-**Depuis quand êtes-vous bénévole au sein de la Courtoise Ressourcerie ?**
+**Depuis quand êtes-vous bénévole au sein de la Courtoise ?**
 
 *"J’ai intégré l’association en 2016 en tant que bénévole."*
 
-**Comment avez-vous connu la Courtoise Ressourcerie ?**
+**Comment avez-vous connu la Courtoise ?**
 
 *"J’ai découvert la Courtoise Ressourcerie d’abord en tant que client. Ayant toujours aimé les brocantes, vide-greniers et les objets d’occasion, j’ai tout de suite apprécié ce magasin très agréable et bien rangé. La dimension sociale de cette association m’a tout de suite séduit. Au moment où je suis arrivé, la ressourcerie comptait 32 bénévoles, et seulement 17 salariés en CDDI (Contrat à Durée Déterminée d’Insertion) et 2 encadrants (contre une quarantaine de bénévoles, une centaine de salariés et 22 permanents actuellement)."*
 
@@ -26,7 +26,7 @@ Nous vous présentons Bruno, bénévole à la Courtoise Ressourcerie de Saint-Ma
 
 **Pourquoi avez-vous choisi de vous investir en tant que bénévole ?**
 
-*"Quand je me suis engagé au sein de la Courtoise Ressourcerie, c’est le côté insertion qui me parlait le plus. Ce que j’aime particulièrement, c’est échanger avec les salariés en CDDI, le côté humain. En tant que bénévole, c’est un réel échange, c’est du donnant-donnant : on donne, et on reçoit aussi énormément ! Quand je discute avec les salariés, je me place au même niveau qu’eux, il n’y a pas de hiérarchie."*
+*"Quand je me suis engagé au sein de la Courtoise, c’est le côté insertion qui me parlait le plus. Ce que j’aime particulièrement, c’est échanger avec les salariés en CDDI, le côté humain. En tant que bénévole, c’est un réel échange, c’est du donnant-donnant : on donne, et on reçoit aussi énormément ! Quand je discute avec les salariés, je me place au même niveau qu’eux, il n’y a pas de hiérarchie."*
 
 **Quels sont selon vous les enjeux de notre association dans le contexte social et environnemental actuel ?**
 
