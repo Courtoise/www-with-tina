@@ -10,15 +10,15 @@ Nous vous présentons Bruno, bénévole à la Courtoise de Saint-Maximin, et vic
 
 **Pouvez-vous vous présenter ?**
 
-*"Je m’appelle Bruno Isoard, j’habite à Saint-Maximin, et je suis bénévole au sein de la Courtoise."*
+*"Je m’appelle Bruno Isoard, j’habite à Saint-Maximin, et je suis bénévole au sein de la COURTOISE."*
 
-**Depuis quand êtes-vous bénévole au sein de la Courtoise ?**
+**Depuis quand êtes-vous bénévole au sein de la COURTOISE ?**
 
 *"J’ai intégré l’association en 2016 en tant que bénévole."*
 
-**Comment avez-vous connu la Courtoise ?**
+**Comment avez-vous connu la COURTOISE ?**
 
-*"J’ai découvert la Courtoise Ressourcerie d’abord en tant que client. Ayant toujours aimé les brocantes, vide-greniers et les objets d’occasion, j’ai tout de suite apprécié ce magasin très agréable et bien rangé. La dimension sociale de cette association m’a tout de suite séduit. Au moment où je suis arrivé, la ressourcerie comptait 32 bénévoles, et seulement 17 salariés en CDDI (Contrat à Durée Déterminée d’Insertion) et 2 encadrants (contre une quarantaine de bénévoles, une centaine de salariés et 22 permanents actuellement)."*
+*"J’ai découvert la COURTOISE Ressourcerie d’abord en tant que client. Ayant toujours aimé les brocantes, vide-greniers et les objets d’occasion, j’ai tout de suite apprécié ce magasin très agréable et bien rangé. La dimension sociale de cette association m’a tout de suite séduit. Au moment où je suis arrivé, la ressourcerie comptait 32 bénévoles, et seulement 17 salariés en CDDI (Contrat à Durée Déterminée d’Insertion) et 2 encadrants (contre une quarantaine de bénévoles, une centaine de salariés et 22 permanents actuellement)."*
 
 **Quel est votre rôle au sein de l’association ?**
 
