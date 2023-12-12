@@ -6,7 +6,7 @@ image: /images/photo dir ressourcerie Aubagne.jpg
 author: Communication
 ---
 
-Le mercredi 11 octobre, nous avons reçu la visite du directeur de la ressourcerie d’Aubagne, le Dirigeable, dans nos locaux de Saint-Maximin. Durant cette matinée, le responsable de site de La Courtoise de Saint-Maximin lui a montré les différents ateliers au sein de notre ressourcerie, lui expliquant nos activités.
+Le mercredi 11 octobre, nous avons reçu la visite du directeur de la ressourcerie le Dirigeable d’Aubagne, dans nos locaux de Saint-Maximin. Durant cette matinée, le responsable de site de La Courtoise de Saint-Maximin lui a montré les différents ateliers au sein de notre ressourcerie, lui expliquant nos activités.
 
 La Ressourcerie le Dirigeable a été créée en 2017, implantée sur le territoire d’Aubagne, dans les Bouches du Rhône. Elle fait partie, tout comme la Courtoise, du Réseau National des Ressourceries et Recycleries.
 
