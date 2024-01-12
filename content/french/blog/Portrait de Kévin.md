@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Portrait de Kévin, salarié en insertion'
 date: 2024-01-11T23:00:00.000Z
 image: /images/photo kev viking news.jpg
