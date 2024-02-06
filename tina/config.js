@@ -460,11 +460,6 @@ export default defineConfig({
                 label: "Titre",
             type: "string",
           },
-              {
-                name: "weight",
-                label: "Positionnement",
-                type: "number",
-              },
             ]
       },
       {
