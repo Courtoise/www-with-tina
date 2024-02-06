@@ -9,8 +9,8 @@ image : ""
 tags : []
 title : ""
 type : "post"
-
 ---
+
 # Retour sur l’inauguration de la Courtoise Ressourcerie à Brignoles
 
 ## Après 6 mois d’ouverture, La Courtoise Ressourcerie de Brignoles a enfin pu être présentée comme il se doit aux élus et à nos partenaires.

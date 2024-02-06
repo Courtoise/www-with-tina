@@ -39,5 +39,4 @@ presse:
     class: journal
     link: ''
     date: 2022-08-12
-
 ---

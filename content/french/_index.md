@@ -25,29 +25,29 @@ about:
     Créée en 2012, l'association La Courtoise Ressourcerie est un chantier
     d’insertion qui valorise les objets en leur donnant une seconde vie tout en
     créant de l’emploi et en agissant pour l’environnement.
-  content: >-
+  content: >
     Les objets que nous remettons en état sont récupérés lors de débarras de
     maisons, de collectes d'encombrants ou grâce à des dons de particuliers. Ces
     objets proviennent également de partenariats avec des entreprises de la
     Provence Verte qui nous font dons d'invendus. Une fois remis en état, ces
     objets sont mis en vente au sein de nos boutiques et c'est parti pour une
-    seconde vie ! 
+    seconde vie !
 
 
     À  ce jour, l'association compte 10 ateliers - informatique, vélo, bois,
     culture, mécanique, hi-fi, gros et petits électroménagers, nettoyage,
     manutention et la vente (boutique et e-shop) - où évoluent près de 80
     salariés en insertion professionnelle, une vingtaine d'encadrants permanents
-    et une trentaine de bénévoles. 
+    et une trentaine de bénévoles.
 
 
     Acteur de la prévention des déchets, nous menons également différentes
     actions de sensibilisation à la transition écologique et à l'économie
-    circulaire sur le territoire. 
+    circulaire sur le territoire.
   image_enable: false
   image: ''
   video_enable: true
-  video: 'WL1K6uX0Xp4'
+  video: WL1K6uX0Xp4
 sponsor:
   enable: true
   background_image: true
@@ -64,24 +64,20 @@ event:
   enable: true
   titre: Nos prochains événements
   evenements:
-    - date: '2022-09-12T20:00:00.000Z'
+    - date: 2022-08-24T22:00:00.000Z
       nom: Event 1
       titre: event 1 exemple de titre
       texte: description de l'event 1
       image: /images/presse/Terres-du-var-alain.jpg
-    - date: '2022-09-26T20:00:00.000Z'
+    - date: 2022-09-26T20:00:00.000Z
       nom: Event 2
       titre: event 2 exemple de titre
       texte: description de l'event 1
       image: /images/presse/Article-VarMatin-Collecte-Jouets.PNG
-    - date: '2022-09-27T20:00:00.000Z'
+    - date: 2022-09-27T20:00:00.000Z
       nom: Event 3
       titre: event 3 exemple de titre
       texte: description de l'event 1
       image: /images/presse/Article-VarMatin-Collecte-Jouets.PNG
 ---
-
-
-
-
 

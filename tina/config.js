@@ -1,6 +1,6 @@
 import { defineConfig } from "tinacms";
 import { aboutFields } from "./collection/about";
-import { mediaFields } from "./collection/media"
+import { mediaFields } from "./collection/media";
 import { accueilFields } from "./collection/home";
 import { authorFields } from "./collection/author";
 import { contactFields } from "./collection/contact";
@@ -19,7 +19,7 @@ export default defineConfig({
     process.env.TINA_BRANCH || // custom branch env override
     process.env.VERCEL_GIT_COMMIT_REF || // Vercel branch env
     process.env.HEAD, // Netlify branch env,
-  clientId:  process.env.TINA_CLIENT_ID, // Get this from tina.io
+  clientId: process.env.TINA_CLIENT_ID, // Get this from tina.io
   token: process.env.TINA_TOKEN, // Get this from tina.io
   client: { skip: true },
   build: {
@@ -36,9 +36,8 @@ export default defineConfig({
     collections: [
       // Page Accueil
       {
-        format: "md",
         label: "Accueil",
-        name: "accueil__fr_",
+        name: "accueil",
         path: "content/french",
         ui: {
           allowedActions: {
@@ -47,11 +46,11 @@ export default defineConfig({
           },
         },
         match: {
-          include: "_index",
+          include: "**/**/_index",
+          exclude: "{project,blog,author}/**/**",
         },
-        fields: [
-          ...accueilFields(),
-        ],
+
+        fields: [...accueilFields()],
       },
       //Page Asso
       {
@@ -66,11 +65,10 @@ export default defineConfig({
           },
         },
         match: {
-          include: "about",
+          include: "**/**/about",
+          exclude: "{project,blog,author}/**/**",
         },
-        fields: [
-          ...aboutFields(),
-        ],
+        fields: [...aboutFields()],
       },
       //Page Service
       {
@@ -85,38 +83,36 @@ export default defineConfig({
           },
         },
         match: {
-          include: "service",
+          include: "**/**/service",
+          exclude: "{project,blog,author}/**/**",
         },
-        fields: [
-          ...featureFields(),
-        ],
+        fields: [...featureFields()],
       },
       //Page Post
-      {
-        format: "md",
-        label: "Post",
-        name: "post__fr_",
-        path: "content/french/blog",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "_index",
-        },
-        fields: [
-          ...post_indexFields(),
-        ],
-      },
+      // {
+      //   format: "md",
+      //   label: "Post",
+      //   name: "post__fr_",
+      //   path: "content/french/blog",
+      //   ui: {
+      //     allowedActions: {
+      //       create: false,
+      //       delete: false,
+      //     },
+      //   },
+      //   match: {
+      //     include: "_index",
+      //   },
+      //   fields: [
+      //     ...post_indexFields(),
+      //   ],
+      // },
       {
         format: "md",
         label: "Posts",
-        name: "posts__fr_",
+        name: "posts",
         path: "content/french/blog",
         match: {
-          include: "**/*",
           exclude: "**/_index",
         },
         fields: [
@@ -139,15 +135,13 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          ...authorFields(),
-        ],
+        fields: [...authorFields()],
       },
       //Page Projet
       {
         format: "md",
         label: "Projet",
-        name: "projet__fr_",
+        name: "projet",
         path: "content/french/project",
         ui: {
           allowedActions: {
@@ -155,12 +149,7 @@ export default defineConfig({
             delete: false,
           },
         },
-        match: {
-          include: "_index",
-        },
-        fields: [
-          ...projetsFields(),
-        ],
+        fields: [...projetsFields()],
       },
       //Page Recrutement
       {
@@ -175,18 +164,17 @@ export default defineConfig({
           },
         },
         match: {
-          include: "pricing",
+          include: "**/**/pricing",
+          exclude: "{project,blog,author}/**/**",
         },
-        fields: [
-          ...recrutementFields(),
-        ],
+        fields: [...recrutementFields()],
       },
       //Page Media
       {
         format: "md",
         label: "Presse",
         name: "presse",
-        path: "content/french/",
+        path: "content/french",
         ui: {
           allowedActions: {
             create: false,
@@ -194,11 +182,10 @@ export default defineConfig({
           },
         },
         match: {
-          include: "presse",
+          include: "**/**/presse",
+          exclude: "{project,blog,author}/**/**",
         },
-        fields: [
-          ...mediaFields(),
-        ],
+        fields: [...mediaFields()],
       },
       //Page Contact
       {
@@ -213,11 +200,10 @@ export default defineConfig({
           },
         },
         match: {
-          include: "contact",
+          include: "**/**/contact",
+          exclude: "{project,blog,author}/**/**",
         },
-        fields: [
-          ...contactFields(),
-        ],
+        fields: [...contactFields()],
       },
       //Page Mention legale
       {
@@ -232,7 +218,8 @@ export default defineConfig({
           },
         },
         match: {
-          include: "legales",
+          include: "**/**/legales",
+          exclude: "{project,blog,author}/**/**",
         },
         fields: [
           ...legalFields(),
@@ -258,7 +245,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "config",
+          include: "**/config",
         },
         fields: [
           {
@@ -271,8 +258,6 @@ export default defineConfig({
             label: "Titre du site",
             type: "string",
           },
-
-          
         ],
       },
       {
@@ -287,7 +272,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "params",
+          include: "**/params/**",
         },
         fields: [
           {
@@ -370,7 +355,7 @@ export default defineConfig({
             name: "gmap",
             label: "Google Map",
             type: "object",
-            fields:[
+            fields: [
               {
                 name: "enable",
                 label: "Activer",
@@ -396,13 +381,13 @@ export default defineConfig({
                 label: "Map repère ",
                 type: "image",
               },
-            ]
+            ],
           },
           {
             name: "osm",
             label: "Open Street Map",
             type: "object",
-            fields:[
+            fields: [
               {
                 name: "enable",
                 label: "Activer",
@@ -413,13 +398,13 @@ export default defineConfig({
                 label: "Map Url ",
                 type: "string",
               },
-            ]
+            ],
           },
           {
             name: "matomo",
             label: "Matomo Statistique",
             type: "object",
-            fields:[
+            fields: [
               {
                 name: "enable",
                 label: "Activer",
@@ -433,33 +418,33 @@ export default defineConfig({
               {
                 name: "url",
                 label: "url",
-            type: "string",
+                type: "string",
+              },
+            ],
           },
-            ]
-      },
-      {
+          {
             name: "footerlogo",
             label: "Footer Logo",
             type: "object",
             list: true,
-        ui: {
+            ui: {
               // This allows the customization of the list item UI
               // Data can be accessed by item?.<Name of field>
               itemProps: (item) => {
-                return { label: `${item?.title} `}
-          },
-        },
-            fields:[
+                return { label: `${item?.title} ` };
+              },
+            },
+            fields: [
               {
                 name: "icon",
                 label: "Icon",
                 type: "image",
-        },
-          {
+              },
+              {
                 name: "title",
                 label: "Titre",
-            type: "string",
-          },
+                type: "string",
+              },
             ]
       },
       {
@@ -468,30 +453,30 @@ export default defineConfig({
             description: "https://fontawesome.com pour les icons",
             type: "object",
             list: true,
-        ui: {
+            ui: {
               // This allows the customization of the list item UI
               // Data can be accessed by item?.<Name of field>
               itemProps: (item) => {
-                return { label: `${item?.title} `}
-          },
-        },
-            fields:[
+                return { label: `${item?.title} ` };
+              },
+            },
+            fields: [
               {
                 name: "icon",
                 label: "Icon",
                 type: "string",
-        },
-          {
+              },
+              {
                 name: "title",
                 label: "Titre",
-            type: "string",
+                type: "string",
               },
               {
                 name: "link",
                 label: "Lien",
                 type: "string",
               },
-            ]
+            ],
           },
         ],
       },
@@ -507,7 +492,7 @@ export default defineConfig({
           },
         },
         match: {
-          include: "menus.fr",
+          include: "**/menus.fr",
         },
         fields: [
           {
@@ -520,9 +505,9 @@ export default defineConfig({
               // Data can be accessed by item?.<Name of field>
               itemProps: (item) => {
                 if (item?.parent) {
-                  return { label: `${item?.parent} > ${item?.name} `}
+                  return { label: `${item?.parent} > ${item?.name} ` };
                 }
-                return { label: `${item?.name} `}
+                return { label: `${item?.name} ` };
               },
             },
             fields: [
@@ -550,9 +535,10 @@ export default defineConfig({
                 name: "parent",
                 label: "Parent du Menu Deroulant",
                 type: "string",
-                description: " À mettre que si le lien est un bouton de menu déroulant"
+                description:
+                  " À mettre que si le lien est un bouton de menu déroulant",
               },
-            ]
+            ],
           },
           {
             name: "footer",
@@ -568,14 +554,14 @@ export default defineConfig({
               {
                 name: "url",
                 label: "url",
-            type: "string",
+                type: "string",
               },
               {
                 name: "weight",
                 label: "Positionnement",
                 type: "number",
               },
-            ]
+            ],
           },
         ],
       },

@@ -10,7 +10,7 @@ layout: service
 about:
   enable: true
   title: Nos Boutiques
-  content: >-
+  content: >
     Frigo et machine à laver, armoire et canapé, verre à vin et plat à tarte …
     Tous ces objets ont un point commun, ils ont failli basculer dans le monde
     des déchets. Au lieu de cela, les voici exposés dans les rayons de nos
@@ -19,31 +19,31 @@ about:
 
     Sur nos étagères, des objets du quotidien côtoient des objets rares,
     insolites ou anciens faisant de la Courtoise Ressourcerie **le paradis des
-    acheteurs d'occasion.** 
+    acheteurs d'occasion.**
 
 
-    Grâce à la diversité de nos ateliers, vous pouvez retrouver en boutiques : 
+    Grâce à la diversité de nos ateliers, vous pouvez retrouver en boutiques :
 
 
     -Des équipements pour la maison (mobiliers, petit et gros électroménagers,
-    vaisselles, décos, luminaires...), 
+    vaisselles, décos, luminaires...),
 
 
     -Des objets de loisirs et de culture (livres, CD, DVD, vinyles, articles
-    informatiques et hi-fi, jouets, articles de sport, vélos...), 
+    informatiques et hi-fi, jouets, articles de sport, vélos...),
 
 
     -Des articles de droguerie (outillages, jardinerie, rangement, bric à
     brac...)
 
-    ....et beaucoup d'autres encore !  
+    ....et beaucoup d'autres encore !
 
 
     **En bref, acheter à la Courtoise Ressourcerie c'est :**
 
 
     -Acheter des objets de seconde main triés, réparés et nettoyés par des
-    professionnels en insertion à petit prix. 
+    professionnels en insertion à petit prix.
 
 
     -Réduire les déchets et préserver les ressources liées à la création de
@@ -54,12 +54,12 @@ about:
 
 
     **N'hésitez plus, et venez faire de belles trouvailles en boutique !**
-  image: /images/20220202_152011.png
   image_enable: true
+  image: /images/20220202_152011.png
 loc:
   enable: true
   title: Lancement de notre service de location de vaisselle
-  content: >-
+  content: >
     Vous êtes un particulier, une association, une collectivité ou une
     entreprise et vous souhaitez organiser un évèvement(mariages, séminaires,
     anniversaires etc.) mais il vous manque de la vaisselle pour recevoir tous
@@ -67,23 +67,23 @@ loc:
     vaisselle ! Verres à vin ou à eau, flûtes à champagne, grandes ou petites
     assiettes, La Courtoise Ressourcerie a tout ce qu'il vous faut !
 
-     
 
     Pour plus d'informations sur ce service, contactez-nous par mail à l'adresse
     suivante :
-    [communication@courtoiseressourcerie.com](mailto:communication@courtoiseressourcerie.com) 
+    [communication@courtoiseressourcerie.com](mailto:communication@courtoiseressourcerie.com)
 
-     Pour plus de détails vous trouverez ci-dessous : un document PDF qui vous explique comment ça fonctionne.
+
+    Pour plus de détails vous trouverez ci-dessous : un document PDF qui vous
+    explique comment ça fonctionne.
+  link_href: 'https://yunohost.courtoiseressourcerie.com/nextcloud/s/qPRSjCWZ6xnkXyA'
+  link_download: 'https://yunohost.courtoiseressourcerie.com/nextcloud/s/qPRSjCWZ6xnkXyA'
+  link_text: Telecharger le descriptif complet
+  image_enable: true
   slides:
     - slide: /images/activities/LocVaisselle1.jpg
     - slide: /images/activities/LocVaisselle-2.jpg
     - slide: /images/activities/LocVaisselle3.jpg
     - slide: /images/activities/LocVaisselle4.jpg
-  image_enable: true
-  link_href: https://gitlab.com/courtoise/www/-/raw/tina/static/images/Flyer_Location_Vaisselle.pdf
-  link_download: https://gitlab.com/courtoise/www/-/raw/tina/static/images/Flyer_Location_Vaisselle.pdf
-  link_text: Telecharger le descriptif complet
-  link_enable: true
 featured_service:
   enable: true
   service_item:
@@ -136,9 +136,8 @@ service:
     solidaire (ESS). Grâce à label-emmaus.co tous les objets de seconde main
     sont à portée de clic. Rejoignez-nous dès à présent sur notre site pour
     __découvrir en exclusivité tous nos objets vintages en avant-première !__
-  item: false
   image: true
-  imageurl: images/emmaus-tab.png
+  imageurl: /images/emmaus-tab.png
   name: Emmaus
   lien: 'https://www.label-emmaus.co/fr/nos-boutiques/la-courtoise-ressourcerie/'
 location_vaisselle:
@@ -148,7 +147,7 @@ location_vaisselle:
   link_href: ''
   link_download: ''
   link_text: ''
-_template: feature
 ---
+
 
 
