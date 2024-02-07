@@ -5,7 +5,7 @@ image: /images/1707234524693.jpg
 author: Communication
 ---
 
-Aujourd’hui, nous tenions à vous parler de l’un de nos partenaires, l’AVAF (Association Varoise d’Accueil Familial). 
+Aujourd’hui, nous tenions à vous parler de l’un de nos partenaires, l’AVAF (Association Varoise d’Accueil Familial).
 
 Cette association à visée sociale a pour but l’accueil, l’hébergement et l’insertion de personnes et de familles en situation de précarité et d’exclusion sociale. Ainsi, plusieurs structures sont présentes sur tout le territoire varois, tels que des centres d’hébergement, accueils de jour, ou encore une Maison Relais.
 
@@ -13,9 +13,11 @@ Depuis 2016, l’AVAF possède également une activité de chantier d’insertio
 
 L’association possède 3 chantiers d’insertion sur le territoire varois : un sur Toulon Provence Méditerranée (TPM), un sur Draguignan, et un sur Brignoles.
 
-![](/images/1707234524687.jpg)![](/images/1707234524714.jpg)
+![](/images/1707234524687.jpg)
 
-Cette dernière structure, située dans la Zi Les Consacs de Brignoles, dispose d’une activité de bâtiment second œuvre, intervenant à l’extérieur, un atelier cartonnage, ou encore un atelier de façonnage/conditionnement. 
+![](/images/1707234524714.jpg)
+
+Cette dernière structure, située dans la Zi Les Consacs de Brignoles, dispose d’une activité de bâtiment second œuvre, intervenant à l’extérieur, un atelier cartonnage, ou encore un atelier de façonnage/conditionnement.
 
 Il y a également un atelier couture, au sein duquel les salariés en insertion confectionnent des trousses et sacs à main, ou encore des cabas pour bouteilles consignées, faits à partir de bâches publicitaires collectées par Ecoscience Provence, un des partenaires de l’association.
 
