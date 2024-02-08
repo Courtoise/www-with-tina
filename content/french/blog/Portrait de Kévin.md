@@ -10,7 +10,7 @@ Nous vous présentons Kevin, salarié en insertion de La COURTOISE, qui se forme
 
 **Peux-tu te présenter ?**
 
-*«Je m’appelle Kevin Duphil, je suis actuellement en formation pour devenir Encadrant Technique d’Insertion (E.T.I) et salarié en insertion au sein de La COURTOISE Ressourcerie de Brignoles.»*
+*«Je m’appelle Kevin Duphil, je suis actuellement en formation pour devenir Encadrant Technique d’Insertion (E.T.I) et salarié en insertion au sein de La COURTOISE Ressourcerie de Brignoles. Je fais également partie des membres du CSE de La COURTOISE.»*
 
 **Depuis quand travailles-tu à La COURTOISE ?**
 
