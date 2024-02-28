@@ -2,19 +2,19 @@ address_descriptors = false
 custom_script = ""
 google_tag_manager = ""
 author = "Courtoise Resourcerie, Luc Van De Velde"
-copyright = "Copyright © 2021 lacourtoiseressourcerie.com - La Courtoise Ressourcerie"
+copyright = "Copyright © 2024 lacourtoiseressourcerie.com - La Courtoise Ressourcerie"
 description = "Le réemploi, plus écolo que le recyclage"
 keywords = "courtoise, ressourcerie, reemploi, ecolo, recyclage, sived, insertion, collecte, saint-maximin-la-sainte-baume, brignoles"
-email = "secretariat@courtoiseressourcerie.com"
+email = "communication@courtoiseressourcerie.com"
 phone = "04 94 72 01 50"
 location = """
 90 Chemin de Bonneval - Quartier La Courtoise 83470 Saint-Maximin-la-Sainte-Beaume
 """
-favicon = "images/favicon.png"
-image = "images/logo.png"
-logo = "images/logo.png"
+favicon = "/imagesimages/favicon.png"
+image = "/imagesimages/logo.png"
+logo = "/imagesimages/logo.png"
 logoDefaultHeight = "50px"
-logoNav = "images/logonav.png"
+logoNav = "/imagesimages/logonav.png"
 logo_text = "La Courtoise Ressourcerie"
 logo_width = "150px"
 navbar_fixed = false
@@ -68,7 +68,7 @@ enable = false
 gmap_api = "AIzaSyCUyldSJJJbPecWby4i5HLODlZYPwp7ZkA"
 map_latitude = "43.44988099320413"
 map_longitude = "5.887806938320934"
-map_marker = "images/marker.png"
+map_marker = "/imagesimages/marker.png"
 
 [osm]
 enable = true
