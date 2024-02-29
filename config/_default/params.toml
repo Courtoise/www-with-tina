@@ -52,7 +52,7 @@ domain = ""
 enable = false
 
 [preloader]
-enable = true
+enable = false
 preloader = ""
 
 [site_verification]
