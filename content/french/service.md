@@ -88,7 +88,7 @@ loc:
   image_enable: true
   slides:
     - slide: /images/activities/LocVaisselle1.jpg
-    - slide: /images/location-vaisselle-2024.png
+    - slide: /images/location-vaisselle-20244.png
     - slide: /images/activities/LocVaisselle3.jpg
     - slide: /images/activities/LocVaisselle4.jpg
 featured_service:
