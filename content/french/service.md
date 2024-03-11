@@ -1,12 +1,19 @@
 ---
+layout: service
+location_vaisselle:
+  title: Lancement de notre service de location de vaisselle
+  content: ''
+  image: ''
+  link_href: ''
+  link_download: ''
+  link_text: ''
 title: Nos services
 description: >-
   Boutiques solidaires, collecte des encombrants, débarras de maisons, ateliers
   de réparation, e-boutique
+bg_image: /images/20220126_133931.png
 bg_norepeat: false
 bg_color: white
-bg_image: /images/20220126_133931.png
-layout: service
 about:
   enable: true
   title: Nos Boutiques
@@ -81,7 +88,7 @@ loc:
   image_enable: true
   slides:
     - slide: /images/activities/LocVaisselle1.jpg
-    - slide: /images/activities/LocVaisselle-2.jpg
+    - slide: /images/location-vaisselle-2024.png
     - slide: /images/activities/LocVaisselle3.jpg
     - slide: /images/activities/LocVaisselle4.jpg
 featured_service:
@@ -140,14 +147,5 @@ service:
   imageurl: /images/emmaus-tab.png
   name: Emmaus
   lien: 'https://www.label-emmaus.co/fr/nos-boutiques/la-courtoise-ressourcerie/'
-location_vaisselle:
-  title: Lancement de notre service de location de vaisselle
-  content: ''
-  image: ''
-  link_href: ''
-  link_download: ''
-  link_text: ''
 ---
-
-
 
