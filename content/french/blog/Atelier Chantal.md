@@ -2,6 +2,7 @@
 draft: true
 title: Atelier " Relooker un meuble "
 date: 2024-03-19T23:00:00.000Z
+image: /images/Atelier Chantal A3_Plan de travail 1.png
 author: Communication
 description: ''
 ---
