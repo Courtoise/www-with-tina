@@ -1,9 +1,9 @@
 ---
 title: Nos Projets
 description: ''
+bg_image: /images/20211130_1625451.jpg
 bg_norepeat: false
 bg_color: white
-bg_image: /images/20211130_1625451.jpg
 projets:
   enable: true
   projet_item:
@@ -25,12 +25,6 @@ projets:
         locales
       date: 2022-04-17T22:00:00.000Z
       content: ''
-    - name: Ouverture d'un magasin à Cotignac
-      date: 2022-04-13T00:00:00.000Z
-      content: >-
-        La Courtoise Ressourcerie doit ouvrir un nouveau magasin à Cotignac en
-        avril 2022. Cette boutique sera principalement consacrée à des créations
-        orignales réalisées par nos salariés. 
     - name: Mise en place d'ateliers créatifs à Saint-Maximin
       date: 2022-04-02T00:00:00.000Z
       content: >-
@@ -81,5 +75,4 @@ projets:
         secteur d'activité des autres organisations fonctionnant par adhésion
         volontaire
 ---
-
 
