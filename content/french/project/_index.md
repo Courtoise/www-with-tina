@@ -7,9 +7,7 @@ bg_color: white
 projets:
   enable: true
   projet_item:
-    - name: >-
-        Démarrage d'un nouveau service de location de vaisselles et
-        d'accessoires de mariage
+    - name: 'Démarrage d''un nouveau service de location de vaisselles '
       date: 2022-05-02T00:00:00.000Z
       content: ''
     - name: >-
