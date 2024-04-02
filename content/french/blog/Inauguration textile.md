@@ -10,7 +10,7 @@ author: Communication
 
 En effet ce projet mené en interne par Julie, notre encadrante technique et textile, voit enfin le jour. Vous pourrez donc dès à présent retrouver au sein de vos ressourceries un rayon friperie et textile. Nous nous efforcerons au fil des mois de développer cette filière qu’un grand nombre d’usagers attendait de voir naître.
 
-Dès à présent **nous collectons, trions et valorisons toutes les pièces liées à l’univers du textile et de l’habillement** (vêtements, chaussures, accessoires, mais aussi linge de maison, tissu…). N’hésitez pas à nous remettre vos vêtements que vous ne portez plus !
+Dès à présent nous collectons, trions et valorisons toutes les pièces liées à l’univers du textile et de l’habillement (vêtements, chaussures, accessoires, mais aussi linge de maison, tissu…). N’hésitez pas à nous remettre vos vêtements que vous ne portez plus !
 
 > À cet effet, la COURTOISE se donne 3 missions:
 
