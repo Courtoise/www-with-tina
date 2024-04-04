@@ -6,7 +6,7 @@ image: /images/Affiche disco grain_Plan de travail 1.png
 author: Communication
 ---
 
-#### En ce mois d’avril 2024 et ce après de longues mises en place votre ressourcerie se met au textile !
+#### En ce mois d’avril 2024 votre ressourcerie se met au textile !
 
 En effet ce projet mené en interne par Julie, notre encadrante technique et textile, voit enfin le jour. Vous pourrez donc dès à présent retrouver au sein de vos ressourceries un rayon friperie et textile. Nous nous efforcerons au fil des mois de développer cette filière qu’un grand nombre d’usagers attendait de voir naître.
 
