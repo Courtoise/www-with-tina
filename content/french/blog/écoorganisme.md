@@ -11,11 +11,11 @@ categories:
   - ''
 ---
 
-## Nous entendons souvent parler d'“ éco-organisme “ mais au final, pour le public : Qu’est-ce que cela veut dire ?
+**Nous entendons souvent parler d'“ éco-organisme “ mais au final, pour le public : Qu’est-ce que cela veut dire ?**
 
-#### Un éco-organisme, est une entreprise à but non lucratif investie par l’État d’une mission d’utilité publique et qui répond à un cahier des charges strict en apportant aux détenteurs de déchets une gestion optimisée des opérations (collecte, logistique, traçabilité, démantèlement, dépollution et traitement)
+Un éco-organisme, est une entreprise à but non lucratif investie par l’État d’une mission d’utilité publique et qui répond à un cahier des charges strict en apportant aux détenteurs de déchets une gestion optimisée des opérations (collecte, logistique, traçabilité, démantèlement, dépollution et traitement)
 
-##### À la COURTOISE, nous travaillons main dans la main avec plusieurs d’entre eux :
+À la COURTOISE, nous travaillons main dans la main avec plusieurs d’entre eux :
 
 Ecologic
 
