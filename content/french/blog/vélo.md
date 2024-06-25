@@ -16,6 +16,8 @@ Bon pour la planète, bon pour le porte-monnaie, bon pour la santé, il permet d
 
 À la COURTOISE, en tant qu’un des acteurs locaux principaux de cette transition écologique, nous disposons de notre propre atelier où 3 de nos salariés donnent une nouvelle jeunesse aux vélos afin de vous les proposer en magasin.
 
-Félicitations à nos 3 Érics !
+Félicitations à nos 2 Éric, à Xavier, Raymond puis sans oublier Corentin et Jason ! 
+
+![](</images/unnamed (1).jpg>)
 
 « A bicyclette, je vais dans le vent, je ne pense plus, et rien n’est d’un aussi délicieux repos » Emile Zola
