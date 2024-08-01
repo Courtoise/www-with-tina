@@ -1,8 +1,6 @@
 ---
 draft: true
-title: >-
-  a COURTOISE et Wallbreaker se sont donc ralliés, œuvrant pour les mêmes causes
-  axées sur 3 points
+title: 'Partenariat avec Wallbreaker : IAE en milieu pénitentiaire '
 date: 2024-07-31T22:00:00.000Z
 author: Communication
 description: >-
@@ -14,7 +12,7 @@ description: >-
 
 Depuis ce début d’année, la COURTOISE est en partenariat avec Wallbreaker. Wallbreaker est une association existant depuis 2021 et conventionnée atelier chantier d'insertion qui forme et emploie des personnes incarcérées à la réparation de petits électroménagers. Les appareils remis en état dans leur atelier contribuent à l'insertion des personnes placées sous-main de justice.
 
-La COURTOISE et Wallbreaker se sont donc ralliés, œuvrant pour les mêmes causes axées sur 3 points:
+La COURTOISE et Wallbreaker se sont donc ralliés, œuvrant pour les mêmes causes axées sur 3 points :
 
 * Une économie circulaire
 * Une empreinte sociale positive
