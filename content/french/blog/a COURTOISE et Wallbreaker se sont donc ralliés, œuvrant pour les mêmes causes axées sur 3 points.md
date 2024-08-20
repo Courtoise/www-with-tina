@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Partenariat avec Wallbreaker : IAE en milieu pénitentiaire '
 date: 2024-07-31T22:00:00.000Z
 image: /images/WB.png
