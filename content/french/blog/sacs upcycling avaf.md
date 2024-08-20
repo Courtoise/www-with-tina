@@ -12,8 +12,8 @@ type: ''
 
 La Courtoise Ressourcerie est fière de vous présenter depuis le 17 juillet son nouveau partenariat avec l’AVAF de Brignoles qui est une association œuvrant dans la gestion des dispositifs d’aide, de soutien et d’accompagnement pour les publics sans domicile fixe et qui est aussi chantier d’insertion.
 
-Main dans la main nous avons décidé de créer notre collection de sacs upcycling.
+Main dans la main nous avons décidé de créer notre collection de sacs upcycling afin de développer par la suite toute une gamme de maroquinerie écoresponsable.
 
 Cette vente de sacs va permettre de développer la formation de couturières tout en utilisant du textile de seconde main invendable issu de notre stock à la ressourcerie afin de minimiser le gaspillage et d’optimiser le réemploi. Bien-sûr, cette action contribue aussi à faire vivre nos chantiers d’insertion.
 
-Les sacs sont disponibles à la vente dès aujourd’hui à Saint-Maximin Brignoles depuis mi-juillet, nous espérons qu’ils vous plairont !
+Les sacs sont disponibles à la vente depuis mi-juillet à Saint-Maximin et Brignoles, nous espérons qu’ils vous plairont !
