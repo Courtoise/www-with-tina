@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Notre collection de sacs upcycling avec l'AVAF
 date: 2024-07-31T22:00:00.000Z
 image: /images/IMG_4308.jpg
