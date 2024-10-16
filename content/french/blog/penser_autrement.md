@@ -1,6 +1,7 @@
 ---
 title: Penser autrement en pensant vert !
 date: 2024-10-15T22:00:00.000Z
+bg_image: /images/bureau-valla-e(2).jpg
 image: /images/cartable.png
 author: Communication
 ---
