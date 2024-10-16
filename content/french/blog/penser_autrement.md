@@ -1,7 +1,7 @@
 ---
 title: Penser autrement
 date: 2024-10-15T22:00:00.000Z
-bg_image: ''
+bg_image: /images/solidarite.jpg
 image: /images/image.png
 author: Communication
 ---
