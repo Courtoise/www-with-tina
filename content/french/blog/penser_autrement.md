@@ -2,6 +2,7 @@
 title: Penser autrement en pensant vert !
 date: 2024-10-15T22:00:00.000Z
 image: /images/cartable.png
+author: Communication
 ---
 
 La Courtoise est fière de vous présenter son nouveau partenaire local, l’association “Penser autrement“ à Bras !
