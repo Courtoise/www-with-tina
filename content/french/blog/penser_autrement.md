@@ -1,5 +1,6 @@
 ---
 title: Penser autrement en pensant vert !
+image: /images/cartable.png
 ---
 
 La Courtoise est fière de vous présenter son nouveau partenaire local, l’association “Penser autrement“ à Bras !
