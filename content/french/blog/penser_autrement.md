@@ -6,10 +6,8 @@ image: /images/cartable.png
 author: Communication
 ---
 
-La Courtoise est fière de vous présenter son nouveau partenaire local, l’association “Penser autrement“ à Bras !
+Pour cette rentrée scolaire nous avons renouvelé nos vœux de partenariat avec Bureau Vallée.
 
-Penser autrement est une association qui a pour objet de proposer un accompagnement par des moyens médicaux, paramédicaux, éducatifs et pédagogiques adaptés aux enfants et adolescents atteints du trouble du spectre de l'autisme. Elle permet aussi de les aider dans leur développement à l'acquisition de l'autonomie, de favoriser l'intégration scolaire et d'apporter aux familles conseil et soutien.
+En effet, durant ce mois d’août et ce jusqu'à la rentrée des classes nous avions mis à disposition une grande sélection de sacs à dos et cartables à petits prix, allant de 3 à 5€ !
 
-À cet effet et afin de soutenir Penser autrement, La Courtoise s’est donc engagée à faire prêt de jeux et de jouets pour aider à la pérennité de cette action.
-
-Ensemble, construisons un monde meilleur.
+Nous tenons encore une fois à remercier notre partenaire Bureau Vallée de nous permettre chaque année de réaliser cette opération. Par ce geste, ces entreprises s’engagent et soutiennent une économie durable ainsi qu'un mode de consommation plus responsable en revalorisant les produits dont ils souhaitent se débarrasser.
