@@ -1,5 +1,5 @@
 ---
-title: 'Qui dit octobre,   dit Rose'
+title: 'Qui dit octobre, dit Rose'
 date: 2024-10-15T22:00:00.000Z
 image: /images/octobre-rose-1150x468-1.jpg
 author: Communication
