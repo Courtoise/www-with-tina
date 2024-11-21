@@ -6,6 +6,6 @@ image: /images/Affiche 10 ans merci_Plan de travail 1.png
 author: Communication
 ---
 
-Ce lundi 18 Novembre s'agissait d'une occasion chaleureuse et conviviale pour fêter une décennie consacrée au réemploi, à la solidarité et à l'environnement. L'occasion de célébrer l'anniversaire de la ressourcerie a permis de mettre en évidence les progrès réalisés et les principes fondamentaux qui animent ce projet depuis ses débuts. L'événement a souligné l'importance de ces actions dans notre vie quotidienne, entre partages d'expériences et discussions inspirantes.
+C'est en ce lundi 18 novembre que nos bénévoles se sont réunis autour d'un goûter pour célébrer les 10 ans de la Courtoise Ressourcerie ! Nous sommes fières de nos bénévoles qui partagent des valeurs solidaires et extraordinaires. Nous sommes particulièrement reconnaissants de voir toutes ces personnes se mobiliser pour contribuer à faire vivre la Courtoise.
 
-Un grand merci à toutes celles et ceux qui soutiennent La Courtoise et qui, grâce à leur dévouement, participent à cette magnifique aventure. Nous sommes impatients de poursuivre cette magnifique histoire ensemble, dans un esprit toujours plus solidaire et respectueux de l’environnement.
+Merci du fond du cœur à vous tous, celles et ceux qui rendent cette aventure possible. Que ce soit simplement en donnant un objet, en consacrant du temps ou en soutenant la structure d'une manière ou d'une autre, chacun d'entre vous a permis de construire ce que nous sommes aujourd'hui. Et ce n'est que le début ! Ensemble, continuons à inventer, partager et faire grandir ce beau projet !
