@@ -15,4 +15,4 @@ Avec cet événement, nous avons voulu rappeler qu’**un petit geste peut avoir
 
 Ce moment a été marqué par une belle énergie collective, où générosité et bienveillance étaient au centre des échanges. Nous avons eu l’honneur et la joie de rencontrer des donateurs motivés et des visiteurs curieux, tous venus apporter leur soutien à la Courtoise. C’est dans ces instants que se reflètent la magie et la bonté de l’esprit de Noël.
 
-> Ensemble, nous prouvons qu’il est possible de relier l’utilité et la solidarité. Vous avez été nombreux à répondre à l’appel, et grâce à vous, de nouveaux sourires ont été dessinés sur le visage des Saint-Maximinois et des Brignolais. 💚
+Ensemble, nous prouvons qu’il est possible de relier l’utilité et la solidarité. Vous avez été nombreux à répondre à l’appel, et grâce à vous, de nouveaux sourires ont été dessinés sur le visage des Saint-Maximinois et des Brignolais. 💚
