@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Un petit geste peut avoir un grand impact pour Noël
 date: 2024-12-18T23:00:00.000Z
 bg_image: >-
@@ -10,7 +11,7 @@ description: |+
 
 ### Laisse Parler ton Cœur
 
-Avec cet événement, nous avons voulu rappeler qu’**un petit geste peut avoir un grand impact**. Cette initiative, basée sur la solidarité et le partage a permis à chacun d’entre nous d’agir concrètement en donnant des jouets qui ne sont plus utilisés pour leur offrir une toute nouvelle vie. Ceux-ci ont alors été collectés pour les revendre à bas prix pour aider ceux qui en ont besoin. 
+Avec cet événement, nous avons voulu rappeler qu’**un petit geste peut avoir un grand impact**. Cette initiative, basée sur la solidarité et le partage a permis à chacun d’entre nous d’agir concrètement en donnant des jouets qui ne sont plus utilisés pour leur offrir une toute nouvelle vie. Ceux-ci ont alors été collectés pour les revendre à bas prix pour aider ceux qui en ont besoin.
 
 Ce moment a été marqué par une belle énergie collective, où générosité et bienveillance étaient au centre des échanges. Nous avons eu l’honneur et la joie de rencontrer des donateurs motivés et des visiteurs curieux, tous venus apporter leur soutien à la Courtoise. C’est dans ces instants que se reflètent la magie et la bonté de l’esprit de Noël.
 
