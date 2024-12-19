@@ -1,6 +1,6 @@
 ---
 title: Un anniversaire mémorable pour les 10 ans de La Courtoise
-date: 2024-11-17T23:00:00.000Z
+date: 2024-11-18T23:00:00.000Z
 bg_image: /images/Bannière Linkedin_Plan de travail 1_Plan de travail 1.png
 image: /images/Affiche 10 ans merci_Plan de travail 1.png
 author: Communication
