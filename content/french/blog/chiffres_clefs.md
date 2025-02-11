@@ -3,7 +3,7 @@ draft: true
 title: Des chiffres qui parlent
 date: 2025-02-09T23:00:00.000Z
 bg_image: /images/1200x680_sc_courtoise.webp
-image: /images/429926264_811831784305553_7859109075040193417_n.jpg
+image: /images/6a00d8341c7d3453ef02b751a710f7200c.jpg
 author: Communication
 description: >-
   Depuis plus de dix ans, La Courtoise agit pour une économie circulaire et
