@@ -27,6 +27,6 @@ Ensemble, roulons vers un avenir plus responsable !
 
 ##### **L’atelier bois : la seconde vie du mobilier**
 
-À l’Atelier Bois, chaque meuble raconte une histoire. Chaque année, nos équipes relookent ou restaurent plus de 300 meubles, leur offrant une nouvelle vie et un nouveau foyer. Derrière ces chiffres impressionnants se cache un travail minutieux : 50 000 coups de marteau sont donnés chaque année pour transformer et réparer vos meubles. Grâce à cet engagement, ce sont 360 commodes, 830 chaises, 220 poufs, 120 lits, 550 tables et 440 bibliothèques qui retrouvent une place dans votre quotidien.
+À l’Atelier Bois, chaque meuble raconte une histoire. Chaque année, nos équipes relookent ou restaurent plus de 300 meubles, leur offrant une nouvelle vie et un nouveau foyer. Derrière ces chiffres impressionnants se cache un travail minutieux : 50 000 coups de marteaux sont donnés chaque année pour transformer et réparer vos meubles. Grâce à cet engagement, ce sont 360 commodes, 830 chaises, 220 poufs, 120 lits, 550 tables et 440 bibliothèques qui retrouvent une place dans votre quotidien.
 
 L’Atelier Bois, c’est aussi un lieu d’insertion et de partage où des salariés passionnés œuvrent chaque jour à faire rimer savoir-faire et économie circulaire. Merci pour votre soutien, qui rend tout cela possible !
