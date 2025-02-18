@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Des chiffres qui parlent
 date: 2025-02-09T23:00:00.000Z
 bg_image: /images/1200x680_sc_courtoise.webp
