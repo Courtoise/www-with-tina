@@ -3,7 +3,7 @@ draft: false
 title: La Saint-Valentin
 date: 2025-02-13T23:00:00.000Z
 bg_image: /images/ballons-en-coeur-rouge-saint-valentin.jpg
-image: /images/Saint valentin.png
+image: /images/Capture d'écran 2025-02-20 134341.png
 author: Communication
 description: >-
   La Saint Valentin est une occasion de partager et de renforcer les liens qui
