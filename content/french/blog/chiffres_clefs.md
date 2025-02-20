@@ -15,7 +15,7 @@ description: >-
 
 ##### **Une décennie d’engagement grâce à vous**
 
-Depuis plus de dix ans, La Courtoise s’engage à vos côtés pour une économie circulaire et solidaire. Chaque année, vous êtes 125 000 visiteurs à soutenir notre mission en donnant et en achetant des objets qui méritent une seconde vie. Grâce à votre générosité, ce sont 750 tonnes d’objets collectés et revalorisés chaque année, contribuant à la réduction des déchets.
+Depuis plus de dix ans, La Courtoise s’engage à vos côtés pour une économie circulaire et solidaire. Chaque année, vous êtes 125 000 visiteurs sur les sites de Brignoles et Saint-Maximin (et 200 000 en comptant Mayol à Toulon)à soutenir notre mission en donnant et en achetant des objets qui méritent une seconde vie. Grâce à votre générosité, ce sont 750 tonnes d’objets collectés et revalorisés chaque année, contribuant à la réduction des déchets.
 
 Votre soutien permet également à 180 salariés par an de bénéficier de nos programmes de réinsertion professionnelle, un véritable tremplin vers l’emploi durable. Nos équipes, toujours mobilisées, prennent également en charge près de 250 encombrants dans 28 communes, pour faciliter vos dons et simplifier votre quotidien.
 
