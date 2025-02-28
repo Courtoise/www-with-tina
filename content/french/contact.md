@@ -30,6 +30,9 @@ horaire:
   title: Nos Horaires D'ouverture
   horaire_list:
     - title: Horaires d'ouverture de la boutique de Toulon
+      info_list:
+        - name: 'Du lundi au samedi '
+          content: De 9h30 à 19h30
     - enable: true
       title: Horaire d'ouverture de la boutique à Saint-Maximin
       info_list:
