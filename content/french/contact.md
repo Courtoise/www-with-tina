@@ -29,6 +29,7 @@ horaire:
   enable: true
   title: Nos Horaires D'ouverture
   horaire_list:
+    - title: Horaires d'ouverture de la boutique de Toulon
     - enable: true
       title: Horaire d'ouverture de la boutique à Saint-Maximin
       info_list:
