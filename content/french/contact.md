@@ -1,10 +1,10 @@
 ---
+layout: contact
 title: Nos contacts et Horaires
 description: Une question ? Contactez-nous !
 bg_image: /images/20220121_101900.jpg
 bg_norepeat: false
 bg_color: white
-layout: contact
 adresse:
   list:
     - titre: Saint-Maximin-la-Sainte-Baume
@@ -17,6 +17,10 @@ adresse:
       location: 'D12 Rte de Camps - Espace Tri-S Le Collet Rouge, 83170 Brignoles'
       email: contact@courtoiseressourcerie.com
       telephone: 04 94 37 02 91
+    - titre: Toulon
+      location: Rue du Murier Centre commercial Mayol
+      email: communication@courtoiseressourcerie.com
+      telephone: ''
     - titre: Pour prendre rendez-vous pour les collectes d'encombrants ou de débarras
       location: ''
       email: ''
@@ -61,7 +65,5 @@ horaire:
           content: Fermé
         - name: Dimanche
           content: Fermé
-_template: contact
 ---
-
 
