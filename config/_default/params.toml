@@ -10,13 +10,13 @@ phone = "04 94 72 01 50"
 location = """
 90 Chemin de Bonneval - Quartier La Courtoise 83470 Saint-Maximin-la-Sainte-Beaume
 """
-favicon = "/images/favicon.png"
-image = "/images/logo.png"
-logo = "/images/logo.png"
+favicon = "/imagesimages/favicon.png"
+image = "/imagesimages/logo.png"
+logo = "/imagesimages/logo.png"
 logoDefaultHeight = "50px"
-logoNav = "/images/logonav.png"
+logoNav = "/imagesimages/logonav.png"
 logo_text = "La Courtoise Ressourcerie"
-logo_width = "150px"
+logo_width = "150"
 navbar_fixed = false
 
 [baidu]
@@ -52,7 +52,7 @@ domain = ""
 enable = false
 
 [preloader]
-enable = false
+enable = true
 preloader = ""
 
 [site_verification]
