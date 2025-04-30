@@ -2,6 +2,8 @@
 title: 'Rien ne se perd, tout se transforme… et tout se partage !'
 date: 2025-04-27T22:00:00.000Z
 bg_image: /images/friends_190412.jpg
+image: /images/partenaires.png
+author: Communication
 ---
 
 ### À la Courtoise Ressourcerie, rien ne se perd, tout se transforme… et surtout, tout se partage ♻️✨
