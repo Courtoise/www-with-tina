@@ -1,7 +1,10 @@
 ---
-draft: true
+draft: false
 title: La Foire de Brignoles
 date: 2025-04-06T22:00:00.000Z
+bg_image: /images/Capture d'écran 2025-04-30 094707.png
+image: /images/Capture-decran-2025-03-04-a-11.32.27.png
+author: Communication
 ---
 
 ### 🎉 Réinventez le quotidien à la Foire de Brignoles avec La Courtoise Ressourcerie ! ♻️🌟
