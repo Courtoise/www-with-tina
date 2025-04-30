@@ -59,7 +59,7 @@ sponsor:
     mots. 
 
     Ils nous font déjà confiance, pourquoi pas vous ?
-  image: /images/Partenaires.png
+  image: /images/partenaires.png
 event:
   enable: true
   titre: Nos prochains événements
