@@ -2,6 +2,7 @@
 draft: true
 title: Retour sur l'Assemblée Générale
 date: 2025-04-16T22:00:00.000Z
+image: /images/Capture d'écran 2025-04-30 095312.png
 author: Communication
 description: ''
 ---
