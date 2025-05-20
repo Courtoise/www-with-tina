@@ -11,4 +11,4 @@ Dans l'objectif d'accompagner chaque chaque salarié vers un avenir professionne
 
 ✅ Au programme : échanges personnalisés, conseils sur le marché du travail et opportunités concrètes d’emploi. Une initiative qui renforce l’accompagnement vers une réinsertion réussie et valorise les compétences acquises au sein de la ressourcerie.
 
-🤝 Une belle collaboration où l'engagement et la solidarité sont synonymes de futur professionnel.
+🤝 Une belle collaboration où l'engagement et la solidarité sont synonymes de futur professionnel.![](/images/IMG_5240.jpg)![](/images/IMG_5238.jpg)
