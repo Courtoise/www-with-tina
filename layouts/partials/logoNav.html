@@ -1,6 +1,5 @@
 {{ $logoPath:= site.Params.logoNav }}
 {{ $logoWidth:= replace site.Params.logo_width "px" "x" }}
-{{ $logoDefault = "images/logonav.png"}}
 <!-- checking logo existance -->
 {{ if $logoPath }}
 {{ if fileExists (add `static/` $logoPath) }}
