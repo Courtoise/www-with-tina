@@ -8,7 +8,7 @@ author: Communication
 
 ### À la Courtoise Ressourcerie, rien ne se perd, tout se transforme… et surtout, tout se partage ♻️✨
 
-Ces dernières semaines, la Courtoise Ressourcerie multiplie ses partenariats avec les associations locales, ayant reçu de nombreux de meubles et équipements récupérés aux ressourceries de Saint-Maximin et Brignoles, prouvant qu’un simple objet peut avoir une seconde vie, utile et solidaire.
+Ces dernières semaines, la Courtoise Ressourcerie multiplie ses partenariats avec les associations locales, ayant reçu de nombreux meubles et équipements récupérés aux ressourceries de Saint-Maximin et Brignoles, prouvant qu’un simple objet peut avoir une seconde vie, utile et solidaire.
 
 🌱 Un double impact positif
 Ces dons permettent de réduire le gaspillage tout en soutenant ceux qui travaillent pour l'intérêt général. Parce que réemployer, c’est aussi aider ! 💚
