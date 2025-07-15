@@ -9,7 +9,7 @@ author: Communication
 
 ### 🎉 Réinventez le quotidien à la Foire de Brignoles avec La Courtoise Ressourcerie ! ♻️🌟
 
-📅 Du 5 au 14 avril, la Foire de Brignoles a battu de son plein, Attirant des centaines de visiteurs à la recherche de nouveautés. Cette année encore, La Courtoise Ressourcerie a été au rendez-vous du 5 au 7 avril, avec un stand haut en couleur et une mission : vous faire découvrir l’univers du réemploi ! 🌍♻️
+📅 Du 5 au 14 avril, la Foire de Brignoles a battu de son plein, Attirant des milliers de visiteurs à la recherche de nouveautés. Cette année encore, La Courtoise Ressourcerie a été au rendez-vous du 5 au 7 avril, avec un stand haut en couleur et une mission : vous faire découvrir l’univers du réemploi ! 🌍♻️
 
 🔎 Au programme :
 ✅ Découverte du réemploi : Comment donner une seconde vie aux objets et réduire le gaspillage ?
