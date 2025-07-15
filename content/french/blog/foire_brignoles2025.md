@@ -18,6 +18,6 @@ author: Communication
 
 🌱 Chaque petit geste compte, et cette foire a été l’occasion idéale pour voir concrètement comment chacun peut agir à son échelle.
 
-* Merci d’avoir répondu présent à la Foire de Brignoles !💚
+Merci d'avoir répondu présent à la Foire de Brignoles !
 
 ![](/images/489418559_1098280302327365_5098783144398307516_n.jpg)![](/images/488481556_1095764462578949_79487892850400874_n.jpg)![](/images/488904795_1097489335739795_2168737599456744240_n.jpg)
