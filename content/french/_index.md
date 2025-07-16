@@ -13,9 +13,12 @@ banner:
     Une deuxième vie pour les objets, une seconde chance pour les hommes, et un
     bel avenir pour la planète
   button:
-    enable: true
-    label: Nous Découvrir
-    link: about
+    - enable: true
+      label: ' Nous Découvrir'
+      link: about
+    - enable: true
+      label: Formulaire
+      link: form
 about:
   enable: true
   background_image: false

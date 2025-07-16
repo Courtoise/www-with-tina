@@ -12,16 +12,16 @@
           <img class="" src="{{ .logo_quote | relURL }}" alt="Logo"
             style="max-height: 15em;max-width: fit-content; align-self: center;">
           {{ partial "quotesvg.html" . }}
-          {{ with .button }}
-          {{ if .enable }}
-          <div style="justify-content: space-around; display: flex; flex-direction: row;">
-            <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp"
-              style="width: 15em;align-self: center;">{{ .label }}</a>
-            <a href="https://docs.google.com/forms/d/1PLEqNppNos0iFVtg5UKGDfzJVD55EubXVAXR5RuZzQw/edit" class="btn btn-main animated fadeInUp"
-              style="align-self: center;">Collecte des Emcombrants</a>
+          <div style="justify-content: space-around; display: flex; flex-direction: row; flex-wrap: wrap;">
+
+            {{ range .button }}
+            {{ if .enable }}
+              <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp"
+                style="align-self: center;margin: 0.5em;">{{ .label }}</a>
+            {{ end }}
+            {{ end }}
           </div>
-          {{ end }}
-          {{ end }}
+
         </div>
         {{ else }}
         <div class="block">

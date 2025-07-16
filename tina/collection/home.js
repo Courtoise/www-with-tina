@@ -72,6 +72,7 @@ export function accueilFields() {
             type: "object",
             name: "button",
             label: "button",
+            list: true,
             fields: [
               {
                 type: "boolean",

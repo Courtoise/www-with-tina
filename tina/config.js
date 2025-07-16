@@ -10,6 +10,7 @@ import { projetsFields } from "./collection/project";
 import { post_indexFields } from "./collection/post";
 import { postFields } from "./collection/posts";
 import { recrutementFields } from "./collection/recrutment";
+import { formFields } from "./collection/form";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
@@ -89,6 +90,25 @@ export default defineConfig({
         },
         fields: [
           ...featureFields(),
+        ],
+      },
+      //Page form
+      {
+        format: "md",
+        label: "Formulaire",
+        name: "form",
+        path: "content/french",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "form",
+        },
+        fields: [
+          ...formFields(),
         ],
       },
       //Page Post
