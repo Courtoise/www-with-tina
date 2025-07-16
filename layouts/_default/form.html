@@ -12,7 +12,7 @@
         {{ with .content }}<div class="mt-30">{{ . | $.Page.RenderString (dict "display" "block") }}</div>{{ end }}
         <div style="justify-content: space-around; display: flex; flex-direction: row; flex-wrap: wrap;">
           <a href="{{ .link | safeURL }}" class="btn btn-main animated fadeInUp"
-            style="width: 15em;align-self: center;margin: 0.5em;">{{ .label }}</a>
+            style="align-self: center;margin: 0.5em;">{{ .label }}</a>
         </div>
       </div>
       {{ with .image -}}
