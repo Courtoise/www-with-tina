@@ -13,13 +13,10 @@ import { recrutementFields } from "./collection/recrutment";
 import { formFields } from "./collection/form";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+ const branch =process.env.NEXT_PUBLIC_TINA_BRANCH || process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF || process.env.HEAD || 'main'
 
 export default defineConfig({
-  branch:
-    process.env.TINA_BRANCH || // custom branch env override
-    process.env.VERCEL_GIT_COMMIT_REF || // Vercel branch env
-    process.env.HEAD, // Netlify branch env,
+  branch,
   clientId: process.env.TINA_CLIENT_ID, // Get this from tina.io
   token: process.env.TINA_TOKEN, // Get this from tina.io
   client: { skip: true },
