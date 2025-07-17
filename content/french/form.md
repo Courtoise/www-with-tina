@@ -8,9 +8,7 @@ location_vaisselle:
   link_download: ''
   link_text: ''
 title: Collecte des encombrants
-description: >-
-  Boutiques solidaires, collecte des encombrants, débarras de maisons, ateliers
-  de réparation, e-boutique
+description: ''
 bg_image: /images/2023.png
 bg_norepeat: false
 bg_color: white
