@@ -16,7 +16,7 @@ bg_norepeat: false
 bg_color: white
 about:
   enable: true
-  title: Nos Boutiques
+  title: Collecte des encombrants
   content: >
     Frigo et machine à laver, armoire et canapé, verre à vin et plat à tarte …
     Tous ces objets ont un point commun, ils ont failli basculer dans le monde
