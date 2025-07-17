@@ -17,7 +17,7 @@ banner:
       label: ' Nous Découvrir'
       link: about
     - enable: true
-      label: Formulaire
+      label: Collecte des encombrants
       link: form
 about:
   enable: true
