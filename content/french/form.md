@@ -63,7 +63,7 @@ about:
     **N'hésitez plus, et venez faire de belles trouvailles en boutique !**
   image_enable: true
   image: /images/collecte-des-encombrants.jpeg
-  label: Collecte des Emcombrants
+  label: Formulaire d'inscription
   link: >-
     https://docs.google.com/forms/d/1PLEqNppNos0iFVtg5UKGDfzJVD55EubXVAXR5RuZzQw/edit
 ---
