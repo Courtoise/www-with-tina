@@ -9,7 +9,7 @@ location_vaisselle:
   link_text: ''
 title: Collecte des encombrants
 description: ''
-bg_image: /images/2023.png
+bg_image: /images/3ded6590-ec92-42b8-83d0-1f70387cd609.png
 bg_norepeat: false
 bg_color: white
 about:
