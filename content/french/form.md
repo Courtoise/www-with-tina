@@ -7,7 +7,7 @@ location_vaisselle:
   link_href: ''
   link_download: ''
   link_text: ''
-title: Collecte des encombrants
+title: Formulaire d'inscription
 description: >-
   Boutiques solidaires, collecte des encombrants, débarras de maisons, ateliers
   de réparation, e-boutique
