@@ -15,50 +15,7 @@ bg_color: white
 about:
   enable: true
   title: Collecte des encombrants
-  content: >
-    Frigo et machine à laver, armoire et canapé, verre à vin et plat à tarte …
-    Tous ces objets ont un point commun, ils ont failli basculer dans le monde
-    des déchets. Au lieu de cela, les voici exposés dans les rayons de nos
-    boutiques solidaires : La Courtoise Ressourcerie !
-
-
-    Sur nos étagères, des objets du quotidien côtoient des objets rares,
-    insolites ou anciens faisant de la Courtoise Ressourcerie **le paradis des
-    acheteurs d'occasion.**
-
-
-    Grâce à la diversité de nos ateliers, vous pouvez retrouver en boutiques :
-
-
-    -Des équipements pour la maison (mobiliers, petit et gros électroménagers,
-    vaisselles, décos, luminaires...),
-
-
-    -Des objets de loisirs et de culture (livres, CD, DVD, vinyles, articles
-    informatiques et hi-fi, jouets, articles de sport, vélos...),
-
-
-    -Des articles de droguerie (outillages, jardinerie, rangement, bric à
-    brac...)
-
-    ....et beaucoup d'autres encore !
-
-
-    **En bref, acheter à la Courtoise Ressourcerie c'est :**
-
-
-    -Acheter des objets de seconde main triés, réparés et nettoyés par des
-    professionnels en insertion à petit prix.
-
-
-    -Réduire les déchets et préserver les ressources liées à la création de
-    nouveaux biens.
-
-
-    -Soutenir la création d'emploi et le fonctionnement de l'association
-
-
-    **N'hésitez plus, et venez faire de belles trouvailles en boutique !**
+  content: "### Description\n\n\U0001F69B Collecte des encombrants – sur inscription \U0001F4DE\nVous avez de gros objets à évacuer et pas de solution de transport ? La Courtoise ressourcerie propose un service GRATUIT de collecte à domicile pour les particuliers.\n\n\U0001F4C6 Sur inscription uniquement\n\U0001F4DE 04 94 80 47 45\nSi la ligne est occupée, merci d'envoyer un mail à [contact@courtoiseressourcerie.com](mailto:contact@courtoiseressourcerie.com) avec votre numéro de téléphone et nous vous rappellerons le plus vite possible.\n\nMerci de vérifier que vos objets sont éligibles !\n\nLa collecte est 1 service gratuit sur enregistrement.\nUn encombrant, c’est ce qui ne rentre pas dans une voiture : produits volumineux de la vie courante à usage d’habitation.\nPour des raisons techniques, la collecte se doit de refuser les encombrants ci-après (liste non exhaustive) :\n\n* de plus de 3m de long\n* de plus de 80kg\n* les vitres/fenêtres/baies vitrées\n* les cuves de fuel\n* les petits électroménagers ou petits objets de la vie courante\n* les déchets du bâtiment (gravats, placo, laine de verre, sable, tuiles, carrelage, peinture, solvant...)\n* les déchets verts\n* les pièces automobiles\n* le linge ou chaussures\n* les ordures ménagères\n* les palettes/cartons\n* les électroménagers insalubres / les literies infestées\n\nNous vous rappelons que le volume MAXIMUM par passage est de 1m³\nLes encombrants sont à déposer la veille au soir devant le domicile sur la voie publique.\n\nPASSAGE COLLECTE : entre 8h et 17h du 1er/09 au 30/06\net entre 6h30 et 13h30 du 1er/07 au 31/08\n\nPour plus d’infos : www\\.courtoiseressourcerie.com\n"
   image_enable: true
   image: /images/collecte-des-encombrants.jpeg
   label: Formulaire d'inscription
